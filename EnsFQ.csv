@@ -1,4 +1,699 @@
-﻿0,2
-0,33
-0,47
-31,02
+﻿ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;68,3;19;32,6;0,02;2;0,87245;0,021;1,097;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;550;550;Monofásico;Em Carga (CDC);Óleo Naftênico;10.08;Transformador;1;com Bolsa/Membrana;90,6;13;44,7;0;0,5;0,87307;0,003;0,178;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;24.86;Transformador;1;com Bolsa/Membrana;91,8;9;31,5;0,03;2;0,86122;0,087;2,427;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;55;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;16.94;Transformador;1;com Bolsa/Membrana;88;9;39,3;NULL;1;0,87636;0,016;1,415;Válvula de Drenagem Inferior Tanque
+WEG;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;5.88;Transformador;1;com Bolsa/Membrana;100,1;10;44,7;0;0;0,87469;0,015;0,352;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;25.11;Transformador;1;com Bolsa/Membrana;86,2;15;33,5;NULL;2;0,86422;0,019;1,598;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;230;66,6;Monofásico;Sem Comutador;Óleo Naftênico;43.87;Transformador;1;com Bolsa/Membrana;99,7;9;29,7;NULL;3;0,8821;0,052;2,057;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;150;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;5.93;Transformador;1;com Bolsa/Membrana;93,2;8;43,6;NULL;0;0,88341;0,02;0,727;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;33,3;Trifásico;Em Carga (CDC);Óleo Naftênico;35.86;Transformador;1;com Bolsa/Membrana;92,8;7;29,5;NULL;3;0,86308;0,0923;2,9254;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;33,33;Autotransformador;Em Carga (CDC);Óleo Naftênico;14.11;Transformador;1;com Bolsa/Membrana;98,2;7;40,3;NULL;1;0,88112;0,006;0,343;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;42.71;Transformador;1;Aberto (Silica-gel);95,2;15;26,3;NULL;4;0,88324;0,337;15,303;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;11.18;Transformador;1;com Bolsa/Membrana;100,1;9;41,8;NULL;1;0,88714;0,003;0,321;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;27.84;Transformador;1;com Bolsa/Membrana;96,5;16;30,3;0,02;2;0,87231;0,973;10,062;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;25.44;Transformador;1;com Bolsa/Membrana;99,5;8;37,9;0,01;0,5;0,86507;0,005;0,195;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;36,7;Monofásico;Sem Comutador;Óleo Naftênico;11.57;Transformador;1;com Bolsa/Membrana;98,4;9;37,4;NULL;1;0,87868;0,0101;0,4745;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;2.59;Transformador;1;Aberto (Silica-gel);88,9;11;38,5;0;0,5;0,87597;0,01;0,322;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;1;Autotransformador;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;Aberto (Silica-gel);97;10;43,5;0;0;0,86953;0,016;1,286;Válvula de Drenagem Inferior Tanque
+COMTRAFO;15;1,238;Trifásico;Sem Comutador;Óleo Naftênico;4.40;Transformador;1;Aberto (Silica-gel);94,8;14;33,6;NULL;1,5;0,87842;0,011;0,629;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.86;Transformador;1;com Bolsa/Membrana;100,1;11;30,2;NULL;1,5;0,88282;0,012;0,612;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;14.07;Transformador;1;com Bolsa/Membrana;75,7;9;40,3;0,02;NULL;0,87744;0,022;0,3442;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;100;Monofásico;Em Carga (CDC);Óleo Naftênico;42.21;Transformador;1;com Bolsa/Membrana;89,8;13;33;NULL;1,5;0,8762;0,02;0,631;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;16.59;Transformador;1;com Bolsa/Membrana;NULL;5;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;250;Monofásico;Em Carga (CDC);Óleo Naftênico;41.82;Transformador;1;com Bolsa/Membrana;84,3;11;29,5;NULL;2;0,88216;0,012;0,733;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;14.95;Transformador;1;com Bolsa/Membrana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;16.94;Transformador;1;com Bolsa/Membrana;100,1;7;43;0;1;0,87423;0,005;0,174;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;10.14;Transformador;1;Aberto (Silica-gel);60,9;21;43,8;0;0,5;0,87302;0,012;0,255;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;15.32;Transformador;1;com Bolsa/Membrana;NULL;7;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;12.02;Transformador;1;com Bolsa/Membrana;98,6;7;38,2;NULL;1;0,87837;0,004;0,532;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;55,1;25;31;NULL;2;0,8771;0,028;1,328;Válvula de Drenagem Inferior Tanque
+WEG;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;6.88;Transformador;1;com Bolsa/Membrana;91,7;5;43;NULL;0;0,87308;0,006;0,144;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;43.87;Transformador;1;Dry Cool;98,9;8;32,1;NULL;2,5;0,88009;0,036;1,404;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;7.70;Transformador;1;com Bolsa/Membrana;97,3;9;41,4;0;0,5;0,87649;0,009;0,278;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;0;Monofásico;Em Carga (CDC);Óleo Naftênico;12.76;Transformador;1;Aberto (Silica-gel);100,3;11;41,6;NULL;0;0,87777;0,005;0,123;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;24.94;Transformador;1;com Bolsa/Membrana;90,5;9;37,1;0;1;0,86541;0,009;0,674;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;550;550;Monofásico;Em Carga (CDC);Óleo Naftênico;10.08;Transformador;1;com Bolsa/Membrana;88,1;10;43,6;NULL;0,5;0,87343;0,0045;0,1147;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;37.01;Transformador;1;com Bolsa/Membrana;95,5;15;33,1;0,01;1,5;0,88346;0,019;1,021;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;55;Autotransformador Trifásico;Em Carga (CDC);Óleo Vegetal;15.65;Transformador;1;com Bolsa/Membrana;91,2;8;36,7;0,01;1;0,87736;0,016;0,736;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;10.17;Transformador;1;com Bolsa/Membrana;29;43;41,2;0;1;0,87105;0,003;0,326;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;138;405;Trifásico;NULL;Óleo Naftênico;6.91;Transformador;1;com Bolsa/Membrana;23;45;39;NULL;0,5;0,87793;0,004;0,14;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;96,6;11;43,8;0;0;0,87589;0,002;0,295;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Sintético;16.88;Transformador;1;com Bolsa/Membrana;98,7;11;41,8;NULL;0,5;0,87516;0,0042;0,1194;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;36,7;Monofásico;Sem Comutador;Óleo Naftênico;11.57;Transformador;1;com Bolsa/Membrana;98,8;7;37,3;0,01;0,5;0,87874;0,004;0,236;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;35.33;Transformador;1;com Bolsa/Membrana;100,1;12;32,1;NULL;3;0,88322;0,104;3,926;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;27.36;Transformador;1;com Bolsa/Membrana;92,6;11;35,6;NULL;1,5;0,86667;0,013;0,631;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;69;16,35;Trifásico;Sem Comutador;Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;81;8;36,2;NULL;1,5;0,87569;0,0148;0,7135;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;96,1;10;42,6;0;0,5;0,87594;0,005;0,09;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;34.74;Transformador;1;com Bolsa/Membrana;90,3;11;37,4;0,01;2;0,86643;0,02;0,368;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;25.75;Transformador;1;com Bolsa/Membrana;96;13;29,5;NULL;3;0,87314;0,046;2,177;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Sem Comutador;Óleo Naftênico;14.63;Transformador;1;com Bolsa/Membrana;92,4;8;45,1;0;2;0,88749;0,003;0,213;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;43.79;Transformador;1;com Bolsa/Membrana;98;16;30,6;0,05;3;0,87866;0,115;3,813;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.04;Transformador;1;Aberto (Silica-gel);99;6;39,6;NULL;0,5;0,88832;0,005;0,127;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;15.66;Transformador;1;com Bolsa/Membrana;70,7;12;40,9;0;0,5;0,88121;0,004;0,517;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;50;Monofásico;Sem Comutador;Óleo Naftênico;9.95;Transformador;1;com Bolsa/Membrana;87,4;9;36,1;0;1;0,87955;0,007;0,38;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;18.86;Transformador;1;com Bolsa/Membrana;66,4;17;41,8;0;1;0,87633;0,004;0,161;Válvula de Drenagem Inferior Tanque
+General Eletric;69;75;Trifásico;NULL;Óleo Naftênico;25.26;Transformador;1;com Bolsa/Membrana;65,9;12;36,9;0,01;1;0,86422;0,014;0,435;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;72,5;8,916;Trifásico;Sem Comutador;Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;89,9;92;22,5;0,16;1;0,91474;1,954;19,421;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;40.95;Transformador;1;com Bolsa/Membrana;87,2;7;41,3;0;0,5;0,87821;0,012;1,022;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;82;9;40,1;NULL;0,5;0,88618;0,002;0,093;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;8.88;Transformador;1;com Bolsa/Membrana;95,5;12;39,4;0;0,5;0,87834;0,016;0,394;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;18,33;Monofásico;Sem Comutador;Óleo Naftênico;15.40;Transformador;1;com Bolsa/Membrana;75,3;9;32,9;0,01;1;0,8765;0,005;0,31;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;20.44;Transformador;1;com Bolsa/Membrana;97;6;39,5;NULL;0,5;0,88225;0,001;0,294;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;550;550;Monofásico;Em Carga (CDC);Óleo Naftênico;10.08;Transformador;1;com Bolsa/Membrana;89;10;43,3;NULL;0,5;0,87304;0,0046;0,1409;Válvula de Drenagem Inferior Tanque
+ALSTOM;230;100;Monofásico;Em Carga (CDC);Óleo Naftênico;9.60;Transformador;1;com Bolsa/Membrana;76,4;15;38,5;NULL;0,5;0,88095;0,006;0,195;Válvula de Drenagem Inferior Tanque
+WEG;138;14;Trifásico;Sem Tensão (CDST);Óleo Naftênico;12.17;Transformador;1;com Bolsa/Membrana;82,7;11;38,6;0;1;0,87825;0,005;0,218;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.74;Transformador;1;com Bolsa/Membrana;100,1;5;40,9;NULL;1;0,87254;0,005;0,184;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;25.73;Transformador;1;com Bolsa/Membrana;93,1;24;25,6;NULL;3;0,866;0,163;4,125;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;13,8;0,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;25.44;Transformador;1;Aberto (Silica-gel);62,5;17;36,4;NULL;0,5;0,86355;0,023;1,104;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.95;Transformador;1;Aberto (Silica-gel);52;33;33,7;0,02;1,5;0,8815;0,081;0,899;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;100;Monofásico;Em Carga (CDC);Óleo Naftênico;42.21;Transformador;1;com Bolsa/Membrana;70,8;33;33;NULL;2;0,87825;0,027;1,215;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Sem Comutador;Óleo Naftênico;26.70;Transformador;1;com Bolsa/Membrana;100,2;12;30,9;NULL;1,5;0,86647;0,061;1,445;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;96;10;43,5;0;0;0,88602;0,002;0,221;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.74;Transformador;1;com Bolsa/Membrana;100,1;5;41,6;NULL;0,5;0,87259;0,006;0,188;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;7.76;Transformador;1;com Bolsa/Membrana;91,2;8;41,8;0;0,5;0,87543;0,006;0,315;Válvula de Drenagem Inferior Tanque
+WEG;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;9.45;Transformador;1;com Bolsa/Membrana;97,6;13;44,8;0;0;0,87534;0,003;0,103;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;525;60;Monofásico;Em Carga (CDC);Óleo Naftênico;24.70;Transformador;1;com Bolsa/Membrana;99,4;7;40,5;NULL;1;0,86655;0,0028;0,1186;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;12.02;Transformador;1;com Bolsa/Membrana;98,7;12;35,4;0,01;0,5;0,87835;0,005;0,245;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;0;Monofásico;Em Carga (CDC);Óleo Naftênico;11.48;Transformador;1;Aberto (Silica-gel);92,3;11;41,3;NULL;0;0,87793;0,003;0,089;Válvula de Drenagem Inferior Tanque
+WEG;230;300;Monofásico;Em Carga (CDC);Óleo Naftênico;13.13;Transformador;1;com Bolsa/Membrana;79,8;8;41,4;0;1;0,87563;0,008;0,633;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;50;Monofásico;Sem Comutador;Óleo Naftênico;9.95;Transformador;1;com Bolsa/Membrana;94,1;13;35,6;0;1;0,87959;0,007;0,345;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;22.14;Transformador;1;com Bolsa/Membrana;91,3;11;37,2;0,01;0,5;0,86699;0,01;0,601;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;Aberto (Silica-gel);23,7;35;31,4;0,02;1,5;0,88062;0,016;1,116;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;16.23;Transformador;1;Aberto (Silica-gel);95,7;13;35,6;NULL;1,5;0,86901;0,021;0,952;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;13.03;Transformador;1;com Bolsa/Membrana;94,8;7;38;NULL;0,5;0,87567;0,003;0,345;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Sintético;16.88;Transformador;1;com Bolsa/Membrana;99,5;11;38,5;NULL;1;0,87516;0,0046;0,1672;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;96,7;5;37,8;NULL;0,5;0,87786;0,0054;0,1968;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;100,1;8;37,1;NULL;0,5;0,87751;0,0085;0,3707;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;8.74;Transformador;1;com Bolsa/Membrana;91,6;9;40,5;0;0;0,87347;0,003;0,124;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;140;25;Trifásico;Em Carga (CDC);Óleo Naftênico;7.58;Transformador;1;Aberto (Silica-gel);65,9;14;42,2;0;1;0,87625;0,014;0,576;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;30.94;Transformador;1;com Bolsa/Membrana;94,8;15;35,1;0,01;1,5;0,8703;0,044;0,831;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;15.68;Transformador;1;com Bolsa/Membrana;89,5;14;44,5;0;0,5;0,88491;0,006;0,163;Válvula de Drenagem Inferior Tanque
+WEG;230;50;Trifásico;Em Carga (CDC);Óleo Naftênico;11.18;Transformador;1;com Bolsa/Membrana;95,1;9;42;0;1;0,8729;0,005;0,169;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;43.85;Transformador;1;com Bolsa/Membrana;87,7;20;29,9;0,05;4;0,87804;0,151;4,804;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;18,33;Monofásico;Sem Comutador;Óleo Naftênico;15.40;Transformador;1;com Bolsa/Membrana;69;10;36,9;0,01;0,5;0,87639;0,007;0,302;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.95;Transformador;1;Aberto (Silica-gel);61,8;20;32,4;0,03;2;0,8786;0,068;2,175;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;28.94;Transformador;1;com Bolsa/Membrana;88;14;30,5;0,03;2,5;0,85478;0,059;1,649;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;1104;Trifásico;Em Carga (CDC);Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;92,1;188;21;0,3;1,5;0,9173;4,76;78,1;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;com Bolsa/Membrana;36,8;36;32,5;NULL;1;0,87687;0,017;0,912;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;98,6;7;45,6;0;0;0,88815;0,005;0,107;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;630;Monofásico;Em Carga (CDC);Óleo Naftênico;10.41;Transformador;1;com Bolsa/Membrana;98,9;8;45,5;NULL;0;0,87595;0,002;0,083;Válvula de Drenagem Inferior Tanque
+AEG;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;27.19;Transformador;1;com Bolsa/Membrana;91,5;14;40,9;0;1;0,87009;0,004;0,443;Válvula de Drenagem Inferior Tanque
+WEG;138;15;Monofásico;Sem Tensão (CDST);Óleo Naftênico;15.96;Transformador;1;com Bolsa/Membrana;74,2;15;40,7;NULL;0;0,88592;0,059;1,487;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;99;7;40,2;NULL;0,5;0,88619;0,002;0,073;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;27.84;Transformador;1;com Bolsa/Membrana;NULL;20;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;138;15;Trifásico;Em Carga (CDC);Óleo Naftênico;42.07;Transformador;1;com Bolsa/Membrana;96,1;14;35;0,01;1,5;0,87917;0,028;1,389;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;20.01;Transformador;1;com Bolsa/Membrana;69,6;17;44;0;1;0,87675;0,003;0,09;Válvula de Drenagem Inferior Tanque
+Mitsubishi Eletric Corp.;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;41.71;Transformador;1;com Bolsa/Membrana;96,2;21;29,1;NULL;3,5;0,87914;0,088;4,274;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;40.95;Transformador;1;Aberto (Silica-gel);56,8;20;31,7;0,03;2;0,87942;0,061;1,926;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;5.67;Transformador;1;com Bolsa/Membrana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;525;60;Monofásico;Em Carga (CDC);Óleo Naftênico;24.70;Transformador;1;com Bolsa/Membrana;83,5;9;39,5;NULL;1;0,86659;0,0058;0,1195;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;40.71;Transformador;1;com Bolsa/Membrana;82,5;14;29,8;NULL;3,5;0,86977;0,057;1,482;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Autotransformador;Em Carga (CDC);Óleo Naftênico;40.37;Transformador;1;com Bolsa/Membrana;80,4;18;36,4;0,01;1;0,87543;0,018;0,613;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;120;Monofásico;Em Carga (CDC);Óleo Naftênico;42.10;Transformador;1;com Bolsa/Membrana;100;5;43,9;NULL;0;0,88115;0,005;0,198;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;17.42;Transformador;1;com Bolsa/Membrana;84,6;16;40,5;0;1;0,88331;0,004;0,311;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;1;Autotransformador;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;Aberto (Silica-gel);84,3;11;44,4;0;0;0,86964;0,01;0,236;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;220;12,5;Trifásico;Em Carga (CDC);Óleo Naftênico;7.58;Transformador;1;com Bolsa/Membrana;82,3;8;40,9;0;0,5;0,87961;0,016;1,369;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;99,8;9;42;0;0,5;0,87628;0,001;0,101;Válvula de Drenagem Inferior Tanque
+WEG;138;15;Monofásico;Sem Tensão (CDST);Óleo Naftênico;15.96;Transformador;1;com Bolsa/Membrana;72,4;15;37,6;NULL;1,5;0,8843;0,012;1,004;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Monofásico;Sem Comutador;Óleo Naftênico;16.17;Transformador;1;com Bolsa/Membrana;95,3;11;38,6;0;1;0,87458;0,015;0,283;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;24.94;Transformador;1;com Bolsa/Membrana;89,3;10;38,2;NULL;1,5;0,86573;0,008;0,826;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;18.74;Transformador;1;com Bolsa/Membrana;85,3;14;39,7;NULL;0,5;0,87608;0,0055;0,2636;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;13,8;0,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;25.44;Transformador;1;Aberto (Silica-gel);95,9;9;42,5;NULL;0;0,87566;0,0068;0,2071;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;8.74;Transformador;1;com Bolsa/Membrana;100,1;13;36,9;0;0;0,87838;0,011;0,6;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;6;Trifásico;Sem Tensão (CDST);Óleo Naftênico;21.11;Transformador;1;com Bolsa/Membrana;83,5;28;35,9;0,01;1;0,88535;0,014;0,958;Válvula de Drenagem Inferior Tanque
+ALSTHON;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;22.73;Transformador;1;com Bolsa/Membrana;90,1;10;42,1;NULL;1;0,88786;0,002;0,364;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;46.24;Transformador;1;Aberto (Silica-gel);62;16;29,9;NULL;3;0,87966;0,094;3,226;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;42.79;Transformador;1;com Bolsa/Membrana;88,2;18;30,8;0,03;3;0,87765;0,15;4,853;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;41.95;Transformador;1;com Bolsa/Membrana;96,8;10;31,2;0,03;3;0,87955;0,064;2,126;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;42.79;Transformador;1;com Bolsa/Membrana;99,1;14;33;0,02;3;0,87709;0,071;2,176;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;42.79;Transformador;1;com Bolsa/Membrana;80;18;31,5;0,02;3;0,87663;0,097;2,695;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;42.79;Transformador;1;com Bolsa/Membrana;92,9;26;34,6;0,03;3;0,87662;0,0635;2,29;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;100;5;38,8;NULL;0,5;0,8781;0,003;0,1524;Válvula de Drenagem Inferior Tanque
+SIEMENS;138;11,333;Monofásico;NULL;Óleo Naftênico;23.61;Transformador;1;com Bolsa/Membrana;53,8;17;31,4;NULL;2;0,8684;0,053;2,015;Válvula de Drenagem Inferior Tanque
+WEG;230;300;Monofásico;Em Carga (CDC);Óleo Naftênico;13.13;Transformador;1;com Bolsa/Membrana;89,6;7;39,7;0;1;0,87616;0,008;0,55;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;13,8;0,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;25.44;Transformador;1;Aberto (Silica-gel);90,8;9;32,3;0,01;1;0,87646;0,633;10,77;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;29.20;Transformador;1;com Bolsa/Membrana;61,8;18;32,8;0,01;1,5;0,87334;0,01;0,384;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;21.21;Transformador;1;com Bolsa/Membrana;95;16;39,2;0;1;0,88797;0,005;0,224;Válvula de Drenagem Inferior Tanque
+WEG;230;300;Monofásico;Em Carga (CDC);Óleo Naftênico;13.13;Transformador;1;com Bolsa/Membrana;92,1;7;39,1;0;1;0,8756;0,009;0,588;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;6;Trifásico;Sem Tensão (CDST);Óleo Naftênico;21.02;Transformador;1;com Bolsa/Membrana;98;14;35,1;0,01;1;0,88487;0,016;1,49;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Autotransformador;Em Carga (CDC);Óleo Naftênico;40.37;Transformador;1;com Bolsa/Membrana;80,7;25;35,7;0,01;1,5;0,87384;0,018;0,832;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;10;Trifásico;Em Carga (CDC);Óleo Naftênico;11.10;Transformador;1;com Bolsa/Membrana;84,2;13;43,2;NULL;0,5;0,88018;0,0105;0,3173;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Sem Comutador;Óleo Naftênico;8.74;Transformador;1;com Bolsa/Membrana;93,2;12;40,3;0;0,5;0,87523;0,004;0,237;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;72,5;4479;Trifásico;Sem Comutador;Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;100,1;16;39,7;0;1,5;0,88155;0,011;0,476;Válvula de Drenagem Inferior Tanque
+WEG;138;15;Monofásico;Sem Tensão (CDST);Óleo Naftênico;15.96;Transformador;1;com Bolsa/Membrana;78,2;14;39,9;NULL;1,5;0,88594;0,006;1,393;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;100,2;8;40,5;NULL;0,5;0,88634;0,001;0,073;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;100,2;6;37,7;NULL;0,5;0,8776;0,0057;0,2287;Válvula de Drenagem Inferior Tanque
+WESTINGHOUSE DO BRASIL;13,8;0,75;Trifásico;Sem Tensão (CDST);Óleo Parafínico;39.03;Transformador;1;com Bolsa/Membrana;38;39;31,5;0,02;1;0,88475;0,033;1,836;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;100;Monofásico;Em Carga (CDC);Óleo Naftênico;42.21;Transformador;1;com Bolsa/Membrana;100,2;11;32,7;NULL;2;0,88053;0,037;1,629;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;28.94;Transformador;1;com Bolsa/Membrana;91,9;11;29,7;0,03;2,5;0,87706;0,126;4,435;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;250;Monofásico;Em Carga (CDC);Óleo Naftênico;41.82;Transformador;1;com Bolsa/Membrana;96,7;13;27,7;NULL;2;0,88343;0,03;1,217;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;Em Carga (CDC);Óleo Naftênico;10.93;Transformador;1;NULL;94,5;7;37,9;NULL;0;0,88627;0,005;0,155;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;13,3;13,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;2.96;Transformador;1;com Bolsa/Membrana;89,2;13;40,8;0;0;0,87363;0,012;0,485;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;60;Regulador Série;Em Carga (CDC);Óleo Naftênico;15.02;Transformador;1;com Bolsa/Membrana;93,6;12;39,5;NULL;1;0,87516;0,007;0,4688;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;60;Regulador Série;Em Carga (CDC);Óleo Naftênico;14.55;Transformador;1;com Bolsa/Membrana;99;13;37,6;NULL;1;0,87501;0,0073;0,6095;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;8.74;Transformador;1;com Bolsa/Membrana;95,6;10;40,9;0;0;0,87537;0,004;0,185;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;18,33;Monofásico;Sem Comutador;Óleo Naftênico;15.40;Transformador;1;com Bolsa/Membrana;100,1;9;34,5;0,01;1;0,87645;0,006;0,237;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.74;Transformador;1;com Bolsa/Membrana;100,2;6;43,4;NULL;0,5;0,87223;0,004;0,114;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;630;Monofásico;Em Carga (CDC);Óleo Naftênico;10.41;Transformador;1;com Bolsa/Membrana;93,8;10;41,3;NULL;0;0,87615;0,003;0,1;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;10.09;Transformador;1;com Bolsa/Membrana;89,9;8;37;NULL;0,5;0,87941;0,011;0,358;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;30.94;Transformador;1;com Bolsa/Membrana;100,1;16;36,2;0,01;1,5;0,8705;0,066;0,902;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Monofásico;Sem Comutador;Óleo Naftênico;16.17;Transformador;1;com Bolsa/Membrana;100,1;8;40,4;0;1;0,87479;0,027;1,203;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;com Bolsa/Membrana;58,1;30;31,1;NULL;1,5;0,88107;0,021;1,194;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;66,6;Monofásico;Sem Tensão (CDST);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;100,1;12;31,3;NULL;3;0,88282;0,095;3,747;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;5.84;Transformador;1;com Bolsa/Membrana;78,3;10;38,5;NULL;0,5;0,87487;0,006;0,173;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;150;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;5.93;Transformador;1;com Bolsa/Membrana;93,3;9;39,5;NULL;0,5;0,87577;0,021;1,061;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;10.17;Transformador;1;com Bolsa/Membrana;99,5;11;42,3;0;0,5;0,87149;0,003;0,123;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;8.48;Transformador;1;com Bolsa/Membrana;100,1;6;40,6;0;0;0,87466;0,045;0,635;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;36.33;Transformador;1;com Bolsa/Membrana;99,2;7;35,6;NULL;1;0,87568;0,0054;0,4095;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;0;Monofásico;Em Carga (CDC);Óleo Naftênico;11.48;Transformador;1;Aberto (Silica-gel);100,1;11;43,3;NULL;0;0,87815;0,002;0,097;Válvula de Drenagem Inferior Tanque
+WESTINGHOUSE DO BRASIL;13,8;0,75;Trifásico;Sem Tensão (CDST);Óleo Parafínico;39.49;Transformador;1;com Bolsa/Membrana;45,5;36;30,4;NULL;1;0,88486;0,052;2,103;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;525;60;Monofásico;Em Carga (CDC);Óleo Naftênico;24.70;Transformador;1;com Bolsa/Membrana;96,4;7;38,7;NULL;1;0,86656;0,0034;0,133;Válvula de Drenagem Inferior Tanque
+ROMAGNOLE - PRODUTOS ELETRICOS LTDA;34,5;0,15;Trifásico;Sem Comutador;Óleo Naftênico;25.11;Transformador;1;Selado a N2;56,9;20;23,3;NULL;2;0,86427;1,191;23,886;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;33,3;Trifásico;Em Carga (CDC);Óleo Naftênico;35.86;Transformador;1;com Bolsa/Membrana;100,1;10;28,8;NULL;3;0,8668;0,1537;4,693;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;7.76;Transformador;1;com Bolsa/Membrana;93;15;45,6;0;0;0,87033;0,007;0,436;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;17.49;Transformador;1;com Bolsa/Membrana;74,5;13;39,8;0;0;0,88669;0,003;0,079;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;38.74;Transformador;1;com Bolsa/Membrana;100,1;11;31;NULL;1,5;0,88401;0,02;0,806;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;42.08;Transformador;1;com Bolsa/Membrana;99,5;12;30,5;0,03;4;0,88282;0,354;13,171;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;55;Trifásico;Em Carga (CDC);Óleo Naftênico;13.21;Transformador;1;com Bolsa/Membrana;100,1;9;45,2;0;0,5;0,88127;0,001;0,446;Válvula de Drenagem Inferior Tanque
+ASEA;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;25.50;Transformador;1;com Bolsa/Membrana;96,4;9;42,5;NULL;1;0,88606;0,01;0,4;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;20.85;Transformador;1;Aberto (Silica-gel);49,5;26;35,5;0,01;2,5;0,87507;0,036;1,287;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;38.63;Transformador;1;com Bolsa/Membrana;NULL;15;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;409,6;Trifásico;Em Carga (CDC);Óleo Naftênico;10.94;Transformador;1;com Bolsa/Membrana;97,1;12;44,2;NULL;0;0,88705;0,003;0,149;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.86;Transformador;1;com Bolsa/Membrana;93,3;10;31,7;NULL;1,5;0,88043;0,043;1,854;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;10;Autotransformador;Em Carga (CDC);Óleo Naftênico;32.70;Transformador;1;com Bolsa/Membrana;100,1;8;31,2;NULL;2,5;0,88241;0,057;2,631;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Sintético;16.88;Transformador;1;com Bolsa/Membrana;100,3;11;40,1;NULL;1;0,87519;0,0055;0,1804;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;10.17;Transformador;1;com Bolsa/Membrana;83,8;11;42,3;0;1;0,87091;0,003;0,181;Válvula de Drenagem Inferior Tanque
+ALSTOM;230;200;Trifásico;Em Carga (CDC);Óleo Naftênico;7.93;Transformador;1;com Bolsa/Membrana;93,9;11;39,2;NULL;0,5;0,87777;0,0027;0,1775;Válvula de Drenagem Inferior Tanque
+ALSTHON;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;19.48;Transformador;1;com Bolsa/Membrana;87,6;13;38,1;NULL;1,5;0,88757;0,009;0,622;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;20.44;Transformador;1;com Bolsa/Membrana;100;9;41,8;0;0,5;0,88116;0,004;0,259;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;20.44;Transformador;1;com Bolsa/Membrana;96,6;11;39,3;0;1;0,88841;0,01;0,772;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;20.44;Transformador;1;com Bolsa/Membrana;97,1;10;40,1;0;1;0,88848;0,006;0,349;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;20.44;Transformador;1;com Bolsa/Membrana;100,1;11;39,7;0;0;0,88854;0,004;0,209;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;14.90;Transformador;1;com Bolsa/Membrana;93,6;6;40,8;NULL;0,5;0,88597;0,011;0,1747;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;55;Trifásico;Em Carga (CDC);Óleo Naftênico;22.73;Transformador;1;com Bolsa/Membrana;89,9;11;43,4;0;0,5;0,88147;0,003;0,599;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Autotransformador;Em Carga (CDC);Óleo Naftênico;40.37;Transformador;1;com Bolsa/Membrana;92,8;15;37,7;0;1;0,87475;0,013;0,538;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;com Bolsa/Membrana;78,2;26;31,7;NULL;1,5;0,87959;0,016;0,827;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;0;Monofásico;Em Carga (CDC);Óleo Naftênico;11.48;Transformador;1;Aberto (Silica-gel);94,4;9;41,9;NULL;0;0,8781;0,003;0,103;Válvula de Drenagem Inferior Tanque
+SIEMENS;138;11,333;Monofásico;NULL;Óleo Naftênico;23.61;Transformador;1;com Bolsa/Membrana;35,7;31;26,8;NULL;2;0,87484;0,04;2,401;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;150;Trifásico;Em Carga (CDC);Óleo Naftênico;11.86;Transformador;1;com Bolsa/Membrana;98,7;7;40,6;NULL;0,5;0,87644;0,001;0,197;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;Aberto (Silica-gel);59;40;30,5;NULL;1,5;0,88224;0,017;1,028;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;12.02;Transformador;1;com Bolsa/Membrana;91,6;9;38,4;0;0,5;0,87842;0,008;0,213;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;13.98;Transformador;1;com Bolsa/Membrana;84,4;16;42,1;0;1;0,87663;0,004;0,184;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;NULL;62,2;18;28,1;0,04;1,5;0,86655;0,021;0,726;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;230;60;Autotransformador;Em Carga (CDC);Óleo Naftênico;26.86;Transformador;1;com Bolsa/Membrana;96;9;35,6;NULL;1,5;0,8655;0,011;0,647;Válvula de Drenagem Inferior Tanque
+SIEMENS;69;30;Trifásico;NULL;Óleo Naftênico;34.37;Transformador;1;com Bolsa/Membrana;46;19;38,1;0;1;0,87159;0,015;0,672;Válvula de Drenagem Inferior Tanque
+ROMAGNOLE - PRODUTOS ELETRICOS LTDA;34,5;0,15;Trifásico;Sem Comutador;Óleo Naftênico;25.11;Transformador;1;Selado a N2;84,9;15;22,1;NULL;2;0,86312;1,114;22,3;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;250;Monofásico;Em Carga (CDC);Óleo Naftênico;41.82;Transformador;1;com Bolsa/Membrana;86,8;11;29,6;NULL;2;0,8828;0,021;0,865;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;66,6;Monofásico;Sem Tensão (CDST);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;100,1;9;32,4;NULL;3;0,88315;0,103;3,906;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;NULL;Óleo Naftênico;29.19;Transformador;1;com Bolsa/Membrana;90,1;9;35;NULL;1,5;0,86158;0,021;0,708;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;8.74;Transformador;1;com Bolsa/Membrana;98,9;9;40,5;0;0;0,87347;0,003;0,124;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;150;Trifásico;Em Carga (CDC);Óleo Naftênico;10.54;Transformador;1;com Bolsa/Membrana;97,2;13;40,4;0;1;0,87315;0,007;0,162;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;22.30;Transformador;1;com Bolsa/Membrana;61,6;17;32,2;0,01;1;0,86675;0,018;0,714;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33;Trifásico;Em Carga (CDC);Óleo Naftênico;13.16;Transformador;1;com Bolsa/Membrana;78,3;15;41,9;0;1;0,87768;0,002;0,21;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;95,2;14;41,4;0;0,5;0,8761;0,004;0,089;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;92,3;10;32,2;0,02;2,5;0,88024;0,084;2,837;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33;Trifásico;Em Carga (CDC);Óleo Naftênico;14.90;Transformador;1;com Bolsa/Membrana;99,5;9;39,3;0;1;0,87641;0,003;0,143;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;138;138;Trifásico;Sem Tensão (CDST);Óleo Naftênico;46.24;Transformador;1;com Bolsa/Membrana;35,9;35;33,5;NULL;1;0,87818;0,011;0,592;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;8.48;Transformador;1;com Bolsa/Membrana;96,5;6;40,6;0;0;0,87462;0,055;0,67;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;13.03;Transformador;1;com Bolsa/Membrana;87,6;9;40,9;NULL;0,5;0,8783;0,001;0,169;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;10;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;2.22;Transformador;1;Aberto (Silica-gel);64,8;20;28,5;NULL;0,5;0,88788;0,099;2,271;Válvula de Drenagem Inferior Tanque
+WEG;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;9.45;Transformador;1;com Bolsa/Membrana;94,5;10;43,9;0;0;0,87533;0,003;0,121;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;18,33;Monofásico;Sem Comutador;Óleo Naftênico;15.40;Transformador;1;com Bolsa/Membrana;97,4;8;35,3;0,01;1;0,87652;0,006;0,287;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;39.87;Transformador;1;com Bolsa/Membrana;94;13;31,4;NULL;2,5;0,88049;0,095;2,192;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;100;Monofásico;Em Carga (CDC);Óleo Naftênico;42.21;Transformador;1;com Bolsa/Membrana;100,2;11;36,7;NULL;1,5;0,8759;0,019;0,767;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;39.38;Transformador;1;com Bolsa/Membrana;87,6;15;30;NULL;2;0,88063;0,057;2,18;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;3.57;Transformador;1;com Bolsa/Membrana;96,1;12;43,5;0;0;0,8792;0,003;0,126;Válvula de Drenagem Inferior Tanque
+ALSTHON;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;20.31;Transformador;1;com Bolsa/Membrana;91,9;12;43,2;0;1;0,88755;0,005;0,22;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;6,25;Trifásico;Em Carga (CDC);Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;100,1;68;22,5;0,08;NULL;0,91695;0,346;7,1044;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;7.73;Transformador;1;com Bolsa/Membrana;100,1;9;40,7;0;0,5;0,87646;0,004;0,576;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;250;Monofásico;Em Carga (CDC);Óleo Naftênico;43.79;Transformador;1;com Bolsa/Membrana;100;11;29,4;NULL;2,5;0,87888;0,022;1,004;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;250;Monofásico;Em Carga (CDC);Óleo Naftênico;43.79;Transformador;1;com Bolsa/Membrana;100;9;31,2;NULL;2;0,88056;0,009;0,615;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;37.78;Transformador;1;com Bolsa/Membrana;97,3;19;30,4;0,01;1,5;0,88107;0,092;1,643;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;28.90;Transformador;1;Aberto (Silica-gel);88,8;14;36,1;NULL;1,5;0,87417;0,025;0,876;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;33.63;Transformador;1;Aberto (Silica-gel);NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+TOSHIBA DO BRASIL S.A;230;55;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;10.18;Transformador;1;com Bolsa/Membrana;75,2;12;43;0;0,5;0,87465;0,005;0,176;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;14.96;Transformador;1;Aberto (Silica-gel);76,9;9;42,5;NULL;0,5;0,88384;0,012;0,244;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.54;Transformador;1;com Bolsa/Membrana;76,8;14;32;NULL;1,5;0,88029;0,013;0,546;Válvula de Drenagem Inferior Tanque
+COEMSA;69;6300;Trifásico;Sem Tensão (CDST);Óleo Naftênico;0.65;Transformador;1;com Bolsa/Membrana;71,8;22;28,2;NULL;2;0,87252;0,047;2,64;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;150;Trifásico;Em Carga (CDC);Óleo Naftênico;13.62;Transformador;1;com Bolsa/Membrana;88,4;9;39;0;1;0,87758;0,007;0,182;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;37.78;Transformador;1;com Bolsa/Membrana;99,8;9;33,3;NULL;1,5;0,88257;0,025;1,035;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;16,67;Autotransformador;Em Carga (CDC);Óleo Naftênico;29.97;Transformador;1;com Bolsa/Membrana;94,1;11;37,7;0;1;0,88232;0,011;0,739;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;525;60;Monofásico;Em Carga (CDC);Óleo Naftênico;24.70;Transformador;1;com Bolsa/Membrana;98,2;7;39,5;NULL;0,5;0,86649;0,0029;0,1079;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;16,67;Autotransformador;Em Carga (CDC);Óleo Naftênico;29.97;Transformador;1;com Bolsa/Membrana;92;12;40,2;NULL;1;0,88188;0,005;0,534;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;Aberto (Silica-gel);22,8;34;32,4;0,01;1;0,88287;0,019;1,775;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;34.03;Transformador;1;com Bolsa/Membrana;95,7;13;30,9;NULL;2,5;0,87598;0,024;1,125;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;27.36;Transformador;1;Aberto (Silica-gel);94;7;38,3;0;0;0,87011;0,009;0,162;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;95,5;12;43,3;0;0;0,87579;0,005;0,084;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;25.76;Transformador;1;Dry Cool;100,1;9;27,6;NULL;4;0,88211;0,195;7,122;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.95;Transformador;1;Aberto (Silica-gel);42;29;34,8;0,02;1,5;0,88084;0,011;0,705;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;120;Monofásico;Em Carga (CDC);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;100,1;10;37,2;NULL;0,5;0,87636;0,012;0,453;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Monofásico;Em Carga (CDC);Óleo Naftênico;12.19;Transformador;1;com Bolsa/Membrana;81,4;13;43,8;NULL;0,5;0,88016;0,004;0,222;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;79,9;13;29,3;0,01;1;0,86621;0,035;1,208;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;36,7;Monofásico;Sem Comutador;Óleo Naftênico;11.57;Transformador;1;com Bolsa/Membrana;89,9;10;40;NULL;1;0,87947;0,0075;0,4;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Monofásico;Sem Comutador;Óleo Naftênico;16.17;Transformador;1;com Bolsa/Membrana;79,2;9;40,6;0;1;0,87459;0,01;0,432;Válvula de Drenagem Inferior Tanque
+WEG;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;9.45;Transformador;1;com Bolsa/Membrana;87,8;13;45,1;0;0;0,87552;0,004;0,124;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;230;Monofásico;Em Carga (CDC);Óleo Naftênico;8.48;Transformador;1;com Bolsa/Membrana;90,1;11;40;0;0;0,87846;0,04;0,466;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;150;Autotransformador;Em Carga (CDC);Óleo Sintético;16.88;Transformador;1;com Bolsa/Membrana;100,1;11;40;NULL;1;0,87515;0,0051;0,13;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;9,375;Trifásico;Em Carga (CDC);Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;92,7;161;23;0,13;1;0,91607;0,886;12,7;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;33,33;Autotransformador;Em Carga (CDC);Óleo Naftênico;14.11;Transformador;1;com Bolsa/Membrana;100,1;7;40,4;NULL;1;0,87776;0,005;0,512;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;90,7;11;40,5;0;0,5;0,87586;0,007;0,088;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;11.09;Transformador;1;com Bolsa/Membrana;84,7;12;39,9;0;0,5;0,87807;0,011;0,211;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;38.74;Transformador;1;com Bolsa/Membrana;99,2;9;33;NULL;1,5;0,88182;0,041;1,836;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;11.37;Transformador;1;com Bolsa/Membrana;79,6;16;44,1;NULL;0;0,87439;0,001;0,211;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;28,75;Trifásico;Sem Comutador;Óleo Naftênico;15.31;Transformador;1;com Bolsa/Membrana;93,6;12;38,3;0;1,5;0,88064;0,01;0,435;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;13,8;0,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;25.44;Transformador;1;Aberto (Silica-gel);79,2;15;30,4;0,02;1;0,86331;0,013;0,811;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;40.87;Transformador;1;com Bolsa/Membrana;39,8;36;30,5;NULL;1,5;0,87817;0,018;0,934;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;50;Trifásico;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;93,8;5;38,4;NULL;1;0,87781;0,0071;0,2666;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;20.04;Transformador;1;com Bolsa/Membrana;6,7;13319;37,3;0,03;1;0,87944;35,65;0,739;Válvula de Drenagem Inferior Tanque
+SIEMENS;69;8,724;Trifásico;Sem Comutador;Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;100,1;53;24,8;0,07;NULL;0,91568;0,668;8,327;Válvula de Drenagem Inferior Tanque
+ITEL;230;33;Trifásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;com Bolsa/Membrana;90,2;13;26,9;NULL;4;0,88347;0,281;11,576;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;21.25;Transformador;1;com Bolsa/Membrana;99,8;20;38,4;0;1,5;0,88805;0,005;0,245;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;34,5;2562;Trifásico;Sem Comutador;Óleo Vegetal;7.30;Transformador;1;Aberto (Silica-gel);100;56;23,3;NULL;1;0,91633;0,922;12,175;Válvula de Drenagem Inferior Tanque
+WEG;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;6.93;Transformador;1;com Bolsa/Membrana;93,1;11;44,5;NULL;0;0,87172;0,015;0,717;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;69;12,5;Trifásico;Em Carga (CDC);Óleo Vegetal;23.86;Transformador;1;com Bolsa/Membrana;95,2;123;22,9;0,1;0,5;0,91692;0,69;13,748;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;69;20;Trifásico;Em Carga (CDC);Óleo Vegetal;11.81;Transformador;1;com Bolsa/Membrana;91,9;140;21,4;0,11;1;0,91587;4,429;42,063;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;424;Trifásico;Em Carga (CDC);Óleo Naftênico;10.85;Transformador;1;com Bolsa/Membrana;100,2;11;41,9;NULL;0;0,88661;0,002;0,099;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;42.11;Transformador;1;Aberto (Silica-gel);95;12;34,5;NULL;2;0,88232;0,0336;1,6231;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;160;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.54;Transformador;1;Selado com N2;97,2;12;29,9;NULL;2,5;0,88329;0,0238;0,932;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;6.84;Transformador;1;com Bolsa/Membrana;100,1;11;42,7;0;0;0,88073;0,022;0,494;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;6.84;Transformador;1;com Bolsa/Membrana;99;10;43,7;0;0;0,88061;0,031;0,916;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;94,9;12;39,7;0;0,5;0,87502;0,011;0,189;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;7.89;Transformador;1;com Bolsa/Membrana;91,5;11;43,9;0;0,5;0,87449;0,003;0,271;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;69;30;Trifásico;Sem Comutador;Óleo Naftênico;34.37;Transformador;1;Aberto (Silica-gel);100,1;10;33,6;NULL;2;0,88111;0,046;2,23;Válvula de Drenagem Inferior Tanque
+ROMAGNOLE - PRODUTOS ELETRICOS LTDA;13,8;0,15;Trifásico;Sem Tensão (CDST);Óleo Naftênico;21.00;Transformador;1;Aberto (Silica-gel);68;15;36;NULL;1;0,86521;0,0114;0,702;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;230;66,6;Monofásico;Sem Comutador;Óleo Naftênico;43.87;Transformador;1;com Bolsa/Membrana;97,4;8;32,6;NULL;2,5;0,87932;0,067;2,172;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;NULL;94,8;10;39,8;0;1;0,87718;0,028;0,817;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;19.92;Transformador;1;com Bolsa/Membrana;100,2;12;40;NULL;0,5;0,88801;0,002;0,137;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;36,7;Monofásico;Sem Comutador;Óleo Naftênico;11.57;Transformador;1;com Bolsa/Membrana;75,9;9;40;NULL;0,5;0,87975;0,0094;0,4146;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;16,67;Autotransformador;Em Carga (CDC);Óleo Naftênico;29.97;Transformador;1;com Bolsa/Membrana;87,4;11;40,4;0;1;0,88117;0,01;0,559;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;55;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;15.43;Transformador;1;com Bolsa/Membrana;100;9;38,5;NULL;1;0,87467;0,007;0,586;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;1;Autotransformador;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;Aberto (Silica-gel);90,2;11;44,1;0;0;0,86838;0,007;0,142;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;10.09;Transformador;1;Aberto (Silica-gel);94,3;11;37,6;NULL;0,5;0,87944;0,01;0,304;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;40.95;Transformador;1;Aberto (Silica-gel);57,1;17;35,5;0,01;1,5;0,88068;0,025;0,77;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;33,3;Monofásico;Em Carga (CDC);Óleo Naftênico;17.39;Transformador;1;com Bolsa/Membrana;99,7;7;43,3;NULL;0,5;0,88402;0,003;0,608;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;150;Trifásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;99,1;9;42,6;0;0,5;0,87608;0,006;0,083;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;Aberto (Silica-gel);43,4;38;30,9;NULL;1,5;0,88184;0,022;0,116;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;18.93;Transformador;1;com Bolsa/Membrana;63,8;15;38,8;NULL;1;0,88533;0,009;0,321;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;87,3;10;45,8;0;0;0,88823;0,001;0,429;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;41.79;Transformador;1;com Bolsa/Membrana;93,6;13;34,6;0,01;1,5;0,88185;0,015;0,596;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;41.79;Transformador;1;com Bolsa/Membrana;89,2;14;33,8;0,02;2;0,88388;0,021;0,989;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;41.79;Transformador;1;com Bolsa/Membrana;100,1;9;29,7;0,01;2;0,8811;0,031;1,149;Válvula de Drenagem Inferior Tanque
+ALSTHON;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;20.98;Transformador;1;com Bolsa/Membrana;96;8;42,8;0;0,5;0,88751;0,004;0,155;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;83,7;9;43,4;0;0;0,8879;0,003;0,046;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;39.87;Transformador;1;com Bolsa/Membrana;100,2;11;36,1;NULL;2;0,87863;0,074;2,346;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;28.94;Transformador;1;com Bolsa/Membrana;95,8;11;31,9;0,02;2,5;0,87334;0,122;3,966;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;29.36;Transformador;1;com Bolsa/Membrana;80,6;11;38,8;NULL;1,5;0,85317;0,021;0,472;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;40.71;Transformador;1;com Bolsa/Membrana;95,5;7;27,4;NULL;3,5;0,88347;0,043;2,37;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;69;30;Autotransformador Trifásico;Em Carga (CDC);Óleo Vegetal;25.94;Transformador;1;Selado a N2;95,1;13;24,8;0,07;4;0,88393;0,411;13,86;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.04;Transformador;1;Aberto (Silica-gel);92,9;10;38,5;0;0;0,88815;0,002;0,204;Válvula de Drenagem Inferior Tanque
+CEMEC - Construções Eletromecânicas S.A.;230;60;Autotransformador;Em Carga (CDC);Óleo Naftênico;20.98;Transformador;1;com Bolsa/Membrana;86,6;11;35,4;0,01;1;0,87192;0,007;0,373;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;93,1;10;45,5;0;0;0,88696;0,005;0,069;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;50;Monofásico;Sem Comutador;Óleo Naftênico;16.17;Transformador;1;com Bolsa/Membrana;98,5;8;41,3;0;0,5;0,87447;0,019;0,375;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Monofásico;Em Carga (CDC);Óleo Naftênico;12.19;Transformador;1;com Bolsa/Membrana;91,4;13;41,9;NULL;0,5;0,87992;0,004;0,224;Válvula de Drenagem Inferior Tanque
+SIEMENS;69;30;Trifásico;NULL;Óleo Naftênico;34.37;Transformador;1;com Bolsa/Membrana;74,2;18;35,8;NULL;1,5;0,87214;0,016;0,742;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;42.12;Transformador;1;com Bolsa/Membrana;51,3;27;33;NULL;2;0,87282;0,018;0,958;Válvula de Drenagem Inferior Tanque
+SIEMENS;550;89,3;Autotransformador;Em Carga (CDC);Óleo Naftênico;7.85;Transformador;1;com Bolsa/Membrana;100,2;8;42;NULL;0,5;0,87667;0,0032;0,1587;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;26.86;Transformador;1;com Bolsa/Membrana;93,7;10;36,9;NULL;1;0,86556;0,007;0,335;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;97;7;42,3;0;0,5;0,87527;0,008;0,163;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;15.49;Transformador;1;com Bolsa/Membrana;89,8;10;41,4;NULL;0,5;0,88104;0,018;0,471;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;42.11;Transformador;1;Aberto (Silica-gel);98,7;12;30,5;NULL;2;0,8826;0,1298;4,9778;Válvula de Drenagem Inferior Tanque
+WESTINGHOUSE DO BRASIL;13,8;0,75;Trifásico;Sem Tensão (CDST);Óleo Parafínico;39.03;Transformador;1;com Bolsa/Membrana;46,5;39;30,5;NULL;1;0,88085;0,062;2,312;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;13.03;Transformador;1;com Bolsa/Membrana;94,7;9;39,1;NULL;0,5;0,87493;0,001;0,182;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;100;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;90,6;6;38,4;NULL;0,5;0,87808;0,0056;0,2203;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;230;65;Trifásico;Em Carga (CDC);Óleo Parafínico;17.37;Transformador;1;com Bolsa/Membrana;87,1;12;42,7;0;1;0,88156;0,004;0,103;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;com Bolsa/Membrana;85,2;14;30;NULL;2,5;0,87851;0,168;4,825;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;230;30;Trifásico;Em Carga (CDC);Óleo Naftênico;22.77;Transformador;1;com Bolsa/Membrana;98,2;9;39,8;NULL;0,5;0,88874;0,004;0,389;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;39.38;Transformador;1;com Bolsa/Membrana;100;13;31,5;NULL;2;0,88242;0,049;1,86;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;11.66;Transformador;1;com Bolsa/Membrana;100;10;41,6;0;0,5;0,87661;0,004;0,082;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;69;16,35;Trifásico;Sem Comutador;Óleo Naftênico;11.93;Transformador;1;com Bolsa/Membrana;100,1;7;32,9;NULL;1,5;0,87557;0,0164;0,7045;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;82,3;14;29,9;NULL;3;0,85;0,023;0,756;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;50;Trifásico;Sem Comutador;Óleo Naftênico;35.86;Transformador;1;com Bolsa/Membrana;96,6;10;34,9;NULL;1,5;0,8649;0,081;2,78;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.95;Transformador;1;Aberto (Silica-gel);31,1;36;31,6;NULL;1,5;0,88051;0,024;1,67;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;550;120;Monofásico;Em Carga (CDC);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;90;6;44,5;NULL;0;0,87631;0,002;0,681;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;424;Trifásico;Em Carga (CDC);Óleo Naftênico;10.85;Transformador;1;com Bolsa/Membrana;93;6;43,5;NULL;0;0,88694;0,0142;0,2525;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;33,33;Trifásico;Sem Comutador;Óleo Naftênico;39.87;Transformador;1;com Bolsa/Membrana;45,3;24;35,5;NULL;1;0,87993;0,008;0,737;Válvula de Drenagem Inferior Tanque
+ITAIPU;13,8;0,5;Trifásico;Em Carga (CDC);Óleo Naftênico;7.76;Transformador;1;Aberto (Silica-gel);53,2;13;41;0,01;0,5;0,87478;0,01;0,292;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;69;35;Trifásico;NULL;Óleo Naftênico;24.28;Transformador;1;com Bolsa/Membrana;70,5;11;37,2;0;NULL;0,86551;0,026;0,893;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;42.79;Transformador;1;com Bolsa/Membrana;91;14;36;0,02;2;0,87759;0,089;3,057;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;43.87;Transformador;1;com Bolsa/Membrana;86,2;16;30,7;0,04;3,5;0,87838;0,181;7,127;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;50;Monofásico;Em Carga (CDC);Óleo Naftênico;43.87;Transformador;1;com Bolsa/Membrana;94,5;19;33,1;0,02;2;0,87782;0,074;2,768;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;37.78;Transformador;1;com Bolsa/Membrana;94,2;16;44,2;0;0;0,87808;0,265;2,228;Válvula de Drenagem Inferior Tanque
+HYUNDAI HEAVY INDUSTRIES CO. BULGARIA;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;7.31;Transformador;1;com Bolsa/Membrana;100,1;12;40,6;0;0,5;0,86473;0,001;0,11;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;35.86;Transformador;1;com Bolsa/Membrana;80,2;13;41,4;0;1;0,8683;0,037;0,902;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;292;Monofásico;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;93,9;8;41,5;0;0,5;0,88005;0,005;0,11;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;30.94;Transformador;1;com Bolsa/Membrana;95,7;9;35,3;0,01;1,5;0,87027;0,033;0,593;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;409,6;Trifásico;Em Carga (CDC);Óleo Naftênico;10.85;Transformador;1;com Bolsa/Membrana;76,9;8;42,4;0;0;0,88712;0,001;0,167;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;24.78;Transformador;1;com Bolsa/Membrana;100,1;8;35,6;NULL;1;0,88822;0,007;0,878;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;24.78;Transformador;1;com Bolsa/Membrana;92,2;8;39,3;NULL;1;0,88789;0,007;0,742;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;24.78;Transformador;1;com Bolsa/Membrana;89,2;10;41,3;NULL;1;0,88729;0,002;0,441;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;230;33,3;Monofásico;Em Carga (CDC);Óleo Naftênico;12.19;Transformador;1;com Bolsa/Membrana;94,2;12;42,2;NULL;0,5;0,88033;0,005;0,23;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;7,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.87;Transformador;1;com Bolsa/Membrana;50,2;32;33,4;0,02;1,5;0,88271;0,015;1,126;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;550;200;Autotransformador;Em Carga (CDC);Óleo Naftênico;39.38;Transformador;1;com Bolsa/Membrana;97,6;19;34,2;0,02;2,5;0,888207;0,086;3,03;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;50;Monofásico;Sem Comutador;Óleo Naftênico;9.95;Transformador;1;com Bolsa/Membrana;92,8;12;35,1;0;1;0,87942;0,008;0,34;Válvula de Drenagem Inferior Tanque
+AREVA;500;150;Monofásico;Em Carga (CDC);Óleo Naftênico;10.17;Transformador;1;com Bolsa/Membrana;96,2;7;41,3;NULL;1;0,87101;0,004;0,484;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;25.83;Transformador;1;com Bolsa/Membrana;83,9;12;37,3;0;1,5;0,86568;0,012;0,192;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;500;10;Trifásico;Em Carga (CDC);Óleo Naftênico;10.94;Transformador;1;com Bolsa/Membrana;91,1;10;43,8;NULL;0,5;0,87969;0,0027;0,1072;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;150;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;5.93;Transformador;1;com Bolsa/Membrana;94,8;8;43,3;NULL;0;0,87286;0,018;0,494;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;230;160;Trifásico;Sem Tensão (CDST);Óleo Naftênico;41.54;Transformador;1;Selado com N2;100,1;8;29,9;NULL;2;0,88256;0,065;1,944;Válvula de Drenagem Inferior Tanque
+ASEA;13,8;387;Trifásico;Sem Comutador;Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;80,5;18;30,1;NULL;4;0,87905;0,114;4,95;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;27.78;Transformador;1;com Bolsa/Membrana;91,9;11;36,9;NULL;1,5;0,86562;0,006;0,335;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;65;Trifásico;Em Carga (CDC);Óleo Naftênico;27.78;Transformador;1;com Bolsa/Membrana;71,7;19;37,4;NULL;1,5;0,86643;0,02;0,37;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;44.79;Transformador;1;Dry Cool;88,5;18;36,9;0,01;1,5;0,88183;0,016;0,639;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;44.79;Transformador;1;Dry Cool;68,5;13;36,3;NULL;1,5;0,87001;0,0066;0,5816;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;44.79;Transformador;1;Dry Cool;87,9;17;37,3;0;1,5;0,88056;0,025;1,101;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;67;Monofásico;Sem Comutador;Óleo Naftênico;44.79;Transformador;1;Dry Cool;99,3;15;36;0,01;2;0,88119;0,02;0,788;Válvula de Drenagem Inferior Tanque
+General Eletric;230;50;Trifásico;Em Carga (CDC);Óleo Naftênico;24.53;Transformador;1;com Bolsa/Membrana;100,1;14;40,7;0;1;0,88561;0,013;0,801;Válvula de Drenagem Inferior Tanque
+ASEA;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;35.79;Transformador;1;com Bolsa/Membrana;99,5;8;39,8;NULL;1;0,86622;0,009;0,375;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;24,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;36.66;Transformador;1;com Bolsa/Membrana;97,8;10;29,1;0,04;1,5;0,87725;0,04;1,749;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;16.36;Transformador;1;com Bolsa/Membrana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+WEG;69;33,33;Trifásico;Sem Tensão (CDST);Óleo Naftênico;10.89;Transformador;1;com Bolsa/Membrana;95,8;9;38,8;0;1;0,87805;0,007;0,458;Válvula de Drenagem Inferior Tanque
+WEG;138;15;Monofásico;Sem Tensão (CDST);Óleo Naftênico;15.96;Transformador;1;com Bolsa/Membrana;88,5;16;39,1;NULL;1,5;0,88524;0,009;0,491;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;33,33;Autotransformador;Em Carga (CDC);Óleo Naftênico;14.11;Transformador;1;com Bolsa/Membrana;100,1;8;41,3;NULL;1;0,88269;0,005;0,306;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;0;Trifásico;Sem Tensão (CDST);Óleo Naftênico;20.85;Transformador;1;Aberto (Silica-gel);58,8;25;28,5;NULL;0,5;0,8755;0,0686;1,8943;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;55;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;13.48;Transformador;1;com Bolsa/Membrana;91,6;10;36,9;NULL;1;0,87635;0,015;0,888;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;13.85;Transformador;1;com Bolsa/Membrana;91,7;12;40,4;0;0;0,88779;0,003;0,067;Válvula de Drenagem Inferior Tanque
+HYUNDAI HEAVY INDUSTRIES CO. BULGARIA;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;7.96;Transformador;1;com Bolsa/Membrana;95;14;42,3;0;0;0,87886;0,006;0,282;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;15.04;Transformador;1;com Bolsa/Membrana;100,1;8;33,8;0,02;1,5;0,86607;0,014;0,584;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;242;100;Monofásico;Em Carga (CDC);Óleo Naftênico;23.86;Transformador;1;com Bolsa/Membrana;92,1;10;39,9;NULL;0,5;0,8813;0,016;0,42;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;230;66,6;Monofásico;Sem Tensão (CDST);Óleo Naftênico;42.87;Transformador;1;com Bolsa/Membrana;97,6;14;28,8;NULL;4;0,88224;0,219;7,362;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;424;Trifásico;Em Carga (CDC);Óleo Naftênico;10.85;Transformador;1;com Bolsa/Membrana;96,9;12;45,3;NULL;0;0,88708;0,001;0,212;Válvula de Drenagem Inferior Tanque
+WEG;550;230;Autotransformador;Em Carga (CDC);Óleo Naftênico;11.60;Transformador;1;com Bolsa/Membrana;91,2;11;40,9;NULL;0;0,87383;0,001;0,112;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;20.70;Transformador;1;com Bolsa/Membrana;95,6;11;43,6;0;0,5;0,8831;0,004;0,179;Válvula de Drenagem Inferior Tanque
+WESTINGHOUSE DO BRASIL;13,8;0,75;Trifásico;Sem Tensão (CDST);Óleo Parafínico;39.03;Transformador;1;com Bolsa/Membrana;45,2;41;29;NULL;1,5;0,88479;0,078;2,661;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;69;26,6;Trifásico;Em Carga (CDC);Óleo Sintético;25.94;Transformador;1;com Bolsa/Membrana;57,4;24;31,4;NULL;1,5;0,87634;0,026;0,98;Válvula de Drenagem Inferior Tanque
+SIEMENS;138;11,333;Monofásico;NULL;Óleo Naftênico;23.61;Transformador;1;com Bolsa/Membrana;48,5;22;33,9;NULL;2;0,87492;0,017;1,187;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;24.94;Transformador;1;com Bolsa/Membrana;100,1;10;32,6;0,02;2,5;0,86587;0,035;1,57;Válvula de Drenagem Inferior Tanque
+ALSTOM;230;200;Trifásico;Em Carga (CDC);Óleo Naftênico;7.93;Transformador;1;com Bolsa/Membrana;99,3;8;38,9;NULL;0,5;0,87777;0,004;0,204;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;33,33;Trifásico;Sem Comutador;Óleo Naftênico;40.37;Transformador;1;com Bolsa/Membrana;27,5;32;37,4;0,01;1;0,87908;0,015;1,197;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;13,8;33;Trifásico;Em Carga (CDC);Óleo Naftênico;11.10;Transformador;1;com Bolsa/Membrana;96,1;10;37,7;NULL;1;0,87351;0,009;0,473;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;13,2;0,525;Trifásico;Sem Tensão (CDST);Óleo Vegetal;20.03;Transformador;1;com Bolsa/Membrana;93,3;18;23,7;NULL;0,5;0,88572;0,044;2,379;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;NULL;100,1;7;38,9;NULL;0,5;0,87665;0,0051;0,4676;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;43.04;Transformador;1;NULL;89,6;18;23,8;0,09;2,5;0,88544;0,289;7,951;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;NULL;Em Carga (CDC);Óleo Naftênico;25.50;Transformador;1;NULL;76,2;15;28,9;0,03;2;0,88231;0,11;4,37;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;NULL;NULL;NULL;9.73;Transformador;1;NULL;44,5;25;33,7;NULL;1;0,87609;0,099;1,858;Válvula de Drenagem Inferior Tanque
+TOSHIBA;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;9.73;Transformador;1;com Bolsa/Membrana;31,1;22;31,6;NULL;1,5;0,87659;0,11;3,369;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;NULL;Em Carga (CDC);Óleo Naftênico;25.50;Transformador;1;NULL;53,3;21;24,5;0,05;2,5;0,88229;0,139;4,98;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;1.72;Transformador;1;com Bolsa/Membrana;92,8;9;43,1;NULL;0;0,87593;0,027;0,6946;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;1;Trifásico;Em Carga (CDC);Óleo Naftênico;9.73;Transformador;1;com Bolsa/Membrana;71,4;27;32,4;0,02;1,5;0,88007;0,041;1,758;Válvula de Drenagem Inferior Tanque
+ITEL;13,8;1;Trifásico;Sem Comutador;Óleo Naftênico;9.73;Transformador;1;com Bolsa/Membrana;58,1;36;32,5;0,04;1,5;0,88109;0,039;1,584;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;69;0;Trifásico;Sem Comutador;Óleo Naftênico;9.73;Transformador;1;com Bolsa/Membrana;14,9;81;27,2;0,04;2;0,87433;5,165;2,891;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;9.73;Transformador;1;com Bolsa/Membrana;28;20;29,5;0,05;2;0,87433;0,1;3,054;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;NULL;100,1;8;41,9;NULL;0,5;0,87614;0,0035;0,0387;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;NULL;92,7;8;23,2;NULL;3,5;0,87646;0,2038;6,6272;Válvula de Drenagem Inferior Tanque
+NULL;64;NULL;NULL;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;NULL;100,3;6;33,3;NULL;1,5;0,87664;0,0055;0,3757;Válvula de Drenagem Inferior Tanque
+TOSHIBA;230;20;Trifásico;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;com Bolsa/Membrana;96;6;37,3;NULL;1;0,87674;0,0038;0,2877;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;Em Carga (CDC);Óleo Vegetal;16.36;Transformador;1;NULL;98,1;105;23,1;0,12;1;0,91635;2,315;28,527;Válvula de Drenagem Inferior Tanque
+WEG;230;0;Autotransformador;Em Carga (CDC);Óleo Naftênico;4.14;Transformador;1;com Bolsa/Membrana;100,1;8;44,3;NULL;0;0,86967;0,017;0,359;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;10.50;Transformador;1;NULL;17,9;69;39,5;0;1,5;0,87437;0,008;0,262;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;com Bolsa/Membrana;97;10;38,7;NULL;1;0,86557;0,003;0,152;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;com Bolsa/Membrana;90,2;10;40,6;NULL;1;0,87534;0,001;0,165;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;250;Autotransformador;Em Carga (CDC);Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;93;10;43,9;0;0;0,8748;0,013;0,143;Válvula de Drenagem Inferior Tanque
+ITAIPU;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;9.98;Transformador;1;com Bolsa/Membrana;26,8;34;33,3;0,04;1;0,86395;0,133;2,753;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;NULL;Em Carga (CDC);Óleo Naftênico;NULL;Transformador;1;NULL;53,9;28;21,9;0,2;1,5;0,87266;0,041;1,914;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;9.98;Transformador;1;NULL;90,9;14;25,3;NULL;1,5;0,86774;0,0318;1,1864;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;1,52;Trifásico;Sem Comutador;Óleo Naftênico;NULL;Transformador;1;com Bolsa/Membrana;87,3;27;28,7;0,04;2;0,86408;0,164;3,967;Válvula de Drenagem Inferior Tanque
+SIEMENS;13,8;1,52;Trifásico;Sem Comutador;Óleo Naftênico;33.86;Transformador;1;com Bolsa/Membrana;79,1;20;25,6;0,06;2,5;0,86434;0,189;3,9;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;550;150;Monofásico;Em Carga (CDC);Óleo Naftênico;25.86;Transformador;1;com Bolsa/Membrana;89,4;10;36,6;0,01;1,5;0,86557;0,012;0,693;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;55;Trifásico;Em Carga (CDC);Óleo Naftênico;11.17;Transformador;1;com Bolsa/Membrana;93;9;44,7;0;1;0,87816;0,008;0,276;Válvula de Drenagem Inferior Tanque
+EMP;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;38.34;Transformador;1;com Bolsa/Membrana;41,4;33;23,9;NULL;2;0,87986;0,086;3,807;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;15.68;Transformador;1;com Bolsa/Membrana;90,1;10;41,5;NULL;0,5;0,88481;0,002;0,197;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;100;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;11.66;Transformador;1;com Bolsa/Membrana;91,8;8;43,7;NULL;1;0,87658;0,01;0,189;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;13,8;30,8;Autotransformador Trifásico;Sem Comutador;Óleo Naftênico;4.32;Transformador;1;com Bolsa/Membrana;40;31;36,9;0,01;1;0,87553;0,012;0,56;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;13,8;0;Autotransformador Trifásico;Sem Comutador;Óleo Naftênico;4.32;Transformador;1;com Bolsa/Membrana;61,7;23;35,7;0,01;1,5;0,8754;0,02;0,78;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;4.32;Transformador;1;NULL;93,2;4;45,8;NULL;0;0,87439;0,0061;0,3162;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;4.32;Transformador;1;NULL;100,1;4;43,4;NULL;0;0,87456;0,0112;0,2215;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;4.32;Transformador;1;NULL;95,8;5;43,9;NULL;0;0,87541;0,0063;0,1221;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;11.07;Transformador;1;NULL;98,7;13;42,9;NULL;0,5;0,87118;0,002;0,077;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;13,2;0,525;Trifásico;Sem Tensão (CDST);Óleo Vegetal;48.87;Transformador;1;com Bolsa/Membrana;23;48;15,3;NULL;4,5;0,87887;0,43;12,898;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,2;0,525;Trifásico;Sem Tensão (CDST);Óleo Naftênico;28.61;Transformador;1;com Bolsa/Membrana;90,5;14;26,1;NULL;2;0,85254;0,141;3,891;Válvula de Drenagem Inferior Tanque
+FRANCE-TRANSFO;13,8;42;Autotransformador Trifásico;Sem Comutador;Óleo Naftênico;40.87;Transformador;1;Selado com N2;97;13;32,2;NULL;1,5;0,88131;0,015;1,094;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;41.71;Transformador;1;NULL;51,6;24;34,6;NULL;1;0,88114;0,01;0,464;Válvula de Drenagem Inferior Tanque
+FRANCE-TRANSFO;13,8;42;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;39.54;Transformador;1;Selado com N2;99,6;13;33,1;NULL;1,5;0,87843;0,0149;0,8588;Válvula de Drenagem Inferior Tanque
+FRANCE-TRANSFO;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;14.76;Transformador;1;com Bolsa/Membrana;20,7;43;34,7;NULL;1;0,87623;0,016;0,738;Válvula de Drenagem Inferior Tanque
+WEG;13,8;42;Autotransformador Trifásico;Em Carga (CDC);Óleo Naftênico;11.43;Transformador;1;com Bolsa/Membrana;100,1;8;39,9;NULL;0,5;0,87485;0,0054;0,2416;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;28,4;39;25,4;NULL;2;0,87075;0,045;2,315;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;26,5;48;23;NULL;2,5;0,87025;0,067;2,84;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;30,9;37;23,4;NULL;2,5;0,86898;0,081;3,032;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;NULL;Em Carga (CDC);Óleo Naftênico;41.45;Transformador;1;NULL;51,6;24;34,6;NULL;1;0,88114;0,01;0,464;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;10.45;Transformador;1;Selado com N2;20,8;43;31,1;NULL;1,5;0,87469;0,02;1,16;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;10.70;Transformador;1;Selado com N2;72,7;25;29,9;NULL;1,5;0,87758;0,016;1,038;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;10.70;Transformador;1;Selado com N2;29,9;38;30,5;NULL;1,5;0,87727;0,016;0,897;Válvula de Drenagem Inferior Tanque
+FRANCE-TRANSFO;13,8;42;Autotransformador Trifásico;Sem Comutador;Óleo Naftênico;40.12;Transformador;1;Selado com N2;20,7;43;34,7;NULL;1;0,87623;0,016;0,738;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;45,6;40;33,6;NULL;1;0,875;0,011;0,967;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13,8;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;42;23;33,1;NULL;1;0,87409;0,007;0,683;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;13,8;0,79;Monofásico;Sem Comutador;Óleo Naftênico;40.71;Transformador;1;Selado com N2;24;38;32,7;NULL;1,5;0,87487;0,011;0,649;Válvula de Drenagem Inferior Tanque
+IDV;13,8;0;Autotransformador;Sem Comutador;Óleo Naftênico;38.34;Transformador;1;com Bolsa/Membrana;72,2;21;33;NULL;1,5;0,87161;0,014;0,889;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;3.94;Transformador;1;NULL;100,1;52;25,6;0,05;1;0,91607;0,381;6,044;Válvula de Drenagem Inferior Tanque
+TRAFO EQUIPAMENTOS ELÉTRICOS;13,8;7,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;19.86;Transformador;1;com Bolsa/Membrana;68,8;15;39,8;0;0,5;0,88889;0,007;0,371;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;7,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;38.03;Transformador;1;com Bolsa/Membrana;33,5;35;26,6;0,04;2;0,88926;0,094;4,045;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;1,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;32,4;28;34,2;0,02;1;0,88332;0,015;0,756;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;1,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;33,5;62;22;NULL;2,5;0,88457;0,118;4,682;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;1,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;46,8;35;34,3;0,02;1;0,88542;0,018;0,775;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;48,5;31;28,1;0,04;2;0,88651;0,052;2,264;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;25,5;30;31,7;0,03;1,5;0,87747;0,028;1,231;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;36,9;35;32,8;0,02;1;0,88812;0,047;2,533;Válvula de Drenagem Inferior Tanque
+TRAFO EQUIPAMENTOS ELÉTRICOS;13,8;1,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;18.98;Transformador;1;com Bolsa/Membrana;36,3;27;32,4;0,02;2;0,8685;0,051;1,622;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;18,8;2,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;37;38;30,1;0,03;1;0,88628;0,023;0,929;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;13,8;7,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;39.03;Transformador;1;com Bolsa/Membrana;71,3;30;31,1;0,03;1,5;0,88594;0,048;2,226;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;34.53;Transformador;1;com Bolsa/Membrana;75,4;19;25,9;NULL;2,5;0,88668;0,145;6,64;Válvula de Drenagem Inferior Tanque
+TRAFO EQUIPAMENTOS ELÉTRICOS;13,8;2;Trifásico;Sem Tensão (CDST);Óleo Naftênico;34.53;Transformador;1;com Bolsa/Membrana;51,8;30;28,4;NULL;1,5;0,88552;0,047;1,468;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;34.53;Transformador;1;com Bolsa/Membrana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+TRAFO EQUIPAMENTOS ELÉTRICOS;13,8;2;Trifásico;Sem Tensão (CDST);Óleo Naftênico;34.53;Transformador;1;com Bolsa/Membrana;62;30;26,5;NULL;1;0,883549;0,473;11,174;Válvula de Drenagem Inferior Tanque
+WEG;69;6630;Trifásico;Sem Comutador;Óleo Vegetal;3.93;Transformador;1;com Bolsa/Membrana;98;49;25,1;0,09;1;0,916;0,49;7,991;Válvula de Drenagem Inferior Tanque
+AREVA;13,8;378;Trifásico;Sem Tensão (CDST);Óleo Naftênico;13.32;Transformador;1;com Bolsa/Membrana;97,9;6;39,7;NULL;1;0,87632;0,008;0,242;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;378;Trifásico;Sem Comutador;Óleo Naftênico;20.04;Transformador;1;com Bolsa/Membrana;89,3;11;37,2;NULL;0,5;0,8768;0,006;0,639;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;13,8;24,5;Trifásico;Sem Tensão (CDST);Óleo Naftênico;25.75;Transformador;1;com Bolsa/Membrana;36,9;24;40,8;NULL;0,5;0,877;0,007;0,469;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;13,8;405;Trifásico;Em Carga (CDC);Óleo Naftênico;18.74;Transformador;1;com Bolsa/Membrana;NULL;10;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;36.86;Transformador;1;com Bolsa/Membrana;90;14;31,4;NULL;1;0,87271;0,017;0,863;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.12;Transformador;1;com Bolsa/Membrana;91,3;12;35,8;NULL;1,5;0,8806;0,007;0,362;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;36.86;Transformador;1;com Bolsa/Membrana;96,2;16;29,7;NULL;1,5;0,87289;0,028;1,031;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.86;Transformador;1;com Bolsa/Membrana;86,8;10;31,9;NULL;1,5;0,88269;0,009;0,421;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;13,8;3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;36.20;Transformador;1;com Bolsa/Membrana;60,1;23;36;NULL;1;0,88225;0,01;0,54;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;230;60;Trifásico;Em Carga (CDC);Óleo Naftênico;36.12;Transformador;1;com Bolsa/Membrana;98,3;13;25,9;NULL;1;0,87416;0,038;0,991;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;6.09;Transformador;1;NULL;96;8;44;0;0;0,87525;0,007;0,351;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;6.11;Transformador;1;com Bolsa/Membrana;74;12;38,5;0,01;0,5;0,87291;0,005;0,342;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;Em Carga (CDC);Óleo Naftênico;6.11;Transformador;1;NULL;90,4;8;43,7;0;0;0,87539;0,007;0,494;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;13,8;0;Trifásico;Sem Comutador;Óleo Naftênico;6.09;Transformador;1;com Bolsa/Membrana;19;45;38,2;0,01;0,5;0,87158;0,004;0,399;Válvula de Drenagem Inferior Tanque
+SIEMENS;230;0;Trifásico;Em Carga (CDC);Óleo Naftênico;6.09;Transformador;1;com Bolsa/Membrana;100,3;7;41;0;0;0,87554;0,005;0,164;Válvula de Drenagem Inferior Tanque
+General Eletric;13,8;0;Autotransformador Trifásico;Sem Comutador;Óleo Naftênico;4.86;Transformador;1;com Bolsa/Membrana;55;14;41,7;0;1;0,86436;0,049;1,065;Válvula de Drenagem Inferior Tanque
+NULL;13,8;NULL;Trifásico;NULL;NULL;4.86;Transformador;1;NULL;79,5;9;34,1;0,02;2;0,864;0,062;1,465;Válvula de Drenagem Inferior Tanque
+General Eletric;13,8;60;Trifásico;Sem Comutador;Óleo Naftênico;4.86;Transformador;1;com Bolsa/Membrana;75,6;10;27,8;0,03;2;0,87726;0,039;1,775;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;NULL;Óleo Mineral Naftênico;2.11;Transformador;1;NULL;92,7;14;40,3;0;0;0,86634;0,004;0,119;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Trifásico;Sem Comutador;Óleo Naftênico;1.85;Transformador;1;com Bolsa/Membrana;71,7;15;41,5;0;0;0,87217;0,016;0,678;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;1.87;Transformador;1;NULL;75,9;7;41,7;NULL;0;0,86598;0,0341;0,6277;Válvula de Drenagem Inferior Tanque
+WEG;230;100;Trifásico;Em Carga (CDC);Óleo Naftênico;1.55;Transformador;1;com Bolsa/Membrana;84,9;10;43,7;0;0;0,87288;0,009;0,25;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;6,9;14;Trifásico;Sem Comutador;Óleo Vegetal;1.49;Transformador;1;Aberto (Silica-gel);93,6;80;25,1;0,04;0;0,91621;0,301;5,885;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;Monofásico;NULL;NULL;1.39;Transformador;1;NULL;78,9;12;41,7;0;0;0,86942;0,008;0,274;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;Monofásico;NULL;NULL;1.39;Transformador;1;NULL;75,7;11;45;0;0;0,86925;0,008;0,24;Válvula de Drenagem Inferior Tanque
+WEG;230;0;Monofásico;Em Carga (CDC);Óleo Naftênico;1.39;Transformador;1;com Bolsa/Membrana;19;56;43,4;0;0;0,86936;0,012;0,225;Válvula de Drenagem Inferior Tanque
+COEMSA;69;6,3;Trifásico;Sem Tensão (CDST);Óleo Naftênico;0.65;Transformador;1;com Bolsa/Membrana;74,6;25;28,9;NULL;2;0,87248;0,0671;2,0219;Válvula de Drenagem Inferior Tanque
+ALSTHON;242;NULL;Derivação Monofásico;NULL;Óleo Mineral Parafínico;26.11;Reator;1;Com Bolsa Membrana;100;18;25,8;NULL;3;0,86118;0,072;3,802;Válvula de Drenagem Inferior Tanque
+ALSTHON;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;29.70;Reator;1;NULL;81,2;17;37,8;0;1;0,86853;0,014;1,06;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;100,3;10;36,9;NULL;2;0,85478;0,0105;0,2169;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;94,8;12;34;NULL;2,5;0,86488;0,008;0,327;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;82,1;12;27;NULL;2;0,86641;0,042;1,3855;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;61,1;12;36,9;NULL;0,5;0,86626;0,0096;0,257;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;96,5;13;30,4;0,01;4,5;0,85252;0,051;1,37;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;40,33;Derivação Monofásico;NULL;Óleo Mineral Naftênico;20.73;Reator;1;NULL;87;14;36,3;NULL;1;0,87554;0,0057;0,284;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;33,21;Derivação Trifásico;NULL;Óleo Mineral Naftênico;20.40;Reator;1;Com Bolsa Membrana;100,1;18;25,3;NULL;4;0,88782;0,936;23,503;Válvula de Drenagem Inferior Tanque
+WEG;242;11,07;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.23;Reator;1;Com Bolsa Membrana;88,6;22;24,9;NULL;3;0,88789;0,37;12,312;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;97,8;14;39,2;0;1,5;0,88119;0,049;2,173;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;138;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;20.85;Reator;1;NULL;89,5;15;36,9;NULL;0,5;0,87501;0,0091;0,199;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;100;7;45,4;0;0;0,87071;0,0012;0,1436;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.12;Reator;1;NULL;100,1;9;33,3;NULL;3;0,88101;0,0273;0,9119;Válvula de Drenagem Inferior Tanque
+ASEA;145;5,52;Derivação Trifásico;NULL;Óleo Mineral Naftênico;44.83;Reator;1;Com Bolsa Membrana;100,2;14;33,9;NULL;1,5;0,87812;0,016;1,219;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.56;Reator;1;Com Bolsa Membrana;100,2;10;36,6;NULL;1,5;0,87446;0,0097;0,418;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;30;Derivação Trifásico;NULL;Óleo Mineral Naftênico;40.37;Reator;1;Com Bolsa Membrana;44,9;25;33,8;0,02;3;0,87812;0,066;2,321;Válvula de Drenagem Inferior Tanque
+WEG;242;11,07;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;81,5;24;26,2;NULL;3;0,88496;0,204;7,046;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.85;Reator;1;Com Bolsa Membrana;100,1;12;36;NULL;1;0,87541;0,0063;0,1648;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;92,9;10;34,3;NULL;1;0,86643;0,0084;0,2964;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;93,7;13;35,1;NULL;1,5;0,86492;0,007;0,324;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;67;19;28,4;NULL;2,5;0,88307;0,027;1,159;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;96,1;12;30,1;NULL;3;0,86449;0,026;1,126;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;20.44;Reator;1;Com Bolsa Membrana;92,4;13;33,1;0,02;2,5;0,88766;0,051;1,452;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;145;2214;Derivação Trifásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;Com Bolsa Membrana;73,6;8;38,1;NULL;0,5;0,87551;0,0036;0,5058;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;33,21;Derivação Trifásico;NULL;Óleo Mineral Naftênico;11.85;Reator;1;NULL;93,5;10;37,8;NULL;1;0,8714;0,0322;0,4486;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;90,9;9;29,5;NULL;4,5;0,85449;0,0566;1,566;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;26.29;Reator;1;Com Bolsa Membrana;96;20;32;NULL;2,5;0,8655;0,04;1,338;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.85;Reator;1;Com Bolsa Membrana;97,8;11;38,1;NULL;0,5;0,87624;0,0546;1,7835;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;96,9;13;28,7;NULL;2,5;0,86486;0,037;1,323;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Com Bolsa Membrana;96,7;14;31,9;NULL;3;0,883;0,0288;1,1512;Válvula de Drenagem Inferior Tanque
+ALSTHON;145;20;Derivação Trifásico;NULL;Óleo Mineral Naftênico;28.45;Reator;1;Com Bolsa Membrana;80,6;12;32,8;NULL;2;0,86031;0,014;0,931;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;145;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.08;Reator;1;Com Bolsa Membrana;85,8;15;34,1;NULL;1;0,88295;0,017;1,008;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;145;2214;Derivação Trifásico;NULL;Óleo Mineral Naftênico;20.98;Reator;1;Com Bolsa Membrana;92,7;9;37,3;NULL;1;0,87621;0,0065;0,4525;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.88;Reator;1;Com Bolsa Membrana;96,8;9;35;NULL;0,5;0,87634;0,002;0,262;Válvula de Drenagem Inferior Tanque
+WEG;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;19.28;Reator;1;Com Bolsa Membrana;100,1;10;43,3;0;1;0,87571;0,007;0,278;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;93,8;14;36,4;0,01;2;0,87015;0,029;1,439;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;94,8;19;28,7;NULL;2,5;0,88307;0,03;1,146;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;98,3;20;30,7;0,02;3,5;0,88673;0,07;2,972;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;15;20;Derivação Monofásico;NULL;Óleo Mineral Naftênico;16.21;Reator;1;Com Bolsa Membrana;97,4;12;33,7;NULL;3,5;0,88062;0,0262;0,849;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;145;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;20.11;Reator;1;Com Bolsa Membrana;73,7;22;34,3;0,01;1,5;0,87746;0,083;1,906;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.62;Reator;1;NULL;100,1;8;31,2;NULL;2,5;0,87993;0,0543;1,6752;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;39.70;Reator;1;NULL;100,2;15;32,4;0,01;2;0,87014;0,013;0,465;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;Com Bolsa Membrana;100,2;9;40,6;NULL;0;0,87495;0,0031;0,1335;Válvula de Drenagem Inferior Tanque
+Transformadores União Siemens;500;33,5;Derivação Monofásico;NULL;Óleo Mineral Naftênico;38.37;Reator;1;NULL;90,7;18;30,8;NULL;2,5;0,87884;0,0584;1,9282;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;38;351;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.70;Reator;1;NULL;79,2;15;31,2;0,02;2,5;0,887544;0,071;2,574;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;100,1;6;37,6;NULL;1;0,87253;0,0101;0,636;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;100,2;13;29,9;NULL;3;0,88497;0,0589;2,2995;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Com Bolsa Membrana;99,3;20;30;NULL;3,5;0,88279;0,114;3,5772;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;29.28;Reator;1;Com Bolsa Membrana;76,1;15;41,9;NULL;0;0,87732;0,005;0,391;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;72,5;10;34;NULL;1;0,86917;0,011;0,2308;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;63;Derivação Trifásico;NULL;Óleo Mineral Naftênico;11.43;Reator;1;NULL;90,8;9;40,3;0;1;0,88703;0,004;0,222;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;38.70;Reator;1;NULL;92,5;15;31,5;0,02;2;0,88082;0,016;0,677;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;22.99;Reator;1;NULL;77,9;12;39,7;0;1;0,88077;0,008;0,409;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;98;17;25,8;NULL;4;0,88325;0,209;6,545;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;81,6;19;34,5;NULL;1,5;0,87409;0,015;0,414;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;93,3;13;32,8;NULL;2,5;0,8645;0,043;1,477;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;15.43;Reator;1;Com Bolsa Membrana;86,7;10;37,5;NULL;0,5;0,87546;0,005;0,298;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.71;Reator;1;NULL;96,2;19;34,1;0,02;2;0,88301;0,022;1,081;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;242;22;Derivação Trifásico;NULL;Óleo Mineral Naftênico;7.15;Reator;1;NULL;90,8;8;40,2;NULL;0;0,87479;0,009;0,156;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;15.38;Reator;1;Com Bolsa Membrana;89,4;11;38,5;NULL;0,5;0,87555;0,006;0,36;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;25,8;25;Derivação Trifásico;NULL;Óleo Mineral Naftênico;22.32;Reator;1;Com Bolsa Membrana;73,7;13;33,8;0;1;0,86533;0,017;0,477;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;95,2;11;36;NULL;2,5;0,86432;0,008;0,329;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.36;Reator;1;Com Bolsa Membrana;91,9;8;39,3;NULL;1;0,8755;0,0077;0,6077;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;92,1;8;33,6;NULL;1;0,86601;0,0357;0,8387;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;72,5;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;86,2;14;32,7;NULL;1,5;0,8652;0,0468;1,6175;Válvula de Drenagem Inferior Tanque
+ALSTHON;145;20;Derivação Trifásico;NULL;Óleo Mineral Naftênico;28.94;Reator;1;Com Bolsa Membrana;NULL;66;NULL;NULL;NULL;NULL;NULL;NULL;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;15;20;Derivação Monofásico;NULL;Óleo Mineral Naftênico;16.21;Reator;1;Com Bolsa Membrana;93,8;16;30,8;NULL;3,5;0,88141;0,0703;2,7314;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;Com Bolsa Membrana;98,9;9;38,5;NULL;0,5;0,87537;0,0074;0,2192;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;63;Derivação Trifásico;NULL;Óleo Mineral Naftênico;11.43;Reator;1;NULL;95,3;8;40,5;0;0;0,88733;0,005;0,145;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.85;Reator;1;Com Bolsa Membrana;98,6;12;26;NULL;1;0,8758;0,1024;2,271;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;72,6;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;NULL;93,1;14;34,7;NULL;1,5;0,87554;0,0059;0,6815;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;79,8;17;32,9;NULL;2;0,87269;0,054;2,194;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.12;Reator;1;NULL;94,7;20;32,3;0,02;2,5;0,88183;0,053;1,937;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.66;Reator;1;Com Bolsa Membrana;69,2;14;27,4;NULL;2;0,867;0,0458;1,5373;Válvula de Drenagem Inferior Tanque
+TRAFO - Equipamentos Elétricos S.A;138;NULL;Derivação Trifásico;NULL;Óleo Vegetal;24.77;Reator;1;Com Bolsa Membrana;96,8;108;24,6;0,13;0,5;0,91642;1,153;16,14;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;97,2;14;31,9;NULL;2,5;0,86577;0,031;0,784;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;20;Derivação Trifásico;NULL;Óleo Mineral Naftênico;11.96;Reator;1;Com Bolsa Membrana;73,6;17;34,5;0,02;1,5;0,8816;0,025;1,41;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;12.94;Reator;1;Com Bolsa Membrana;78,7;15;37,5;0;1;0,88616;0,003;0,176;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;100,2;17;32,6;NULL;3;0,88182;0,054;2,446;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;36.43;Reator;1;Com Bolsa Membrana;95;12;30,6;0,01;4,5;0,85353;0,04;1,017;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;91,4;7;38,3;NULL;1;0,86623;0,022;0,3832;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.88;Reator;1;Com Bolsa Membrana;100;10;32,7;NULL;0,5;0,87652;0,003;0,253;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;94,3;13;32,6;NULL;1,5;0,87431;0,015;0,732;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;91;18;34,8;0,02;2,5;0,88406;0,034;1,718;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;97,5;14;25,3;NULL;2,5;0,86651;0,073;2,643;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;NULL;94,9;15;31,5;NULL;3,5;0,88205;0,091;2,592;Válvula de Drenagem Inferior Tanque
+AREVA;230;230;Derivação Trifásico;NULL;Óleo Mineral Naftênico;16.97;Reator;1;Com Bolsa Membrana;100,2;8;43,8;NULL;0,5;0,87912;0,004;0,237;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.71;Reator;1;NULL;91,1;16;34,3;0,03;3;0,88406;0,057;1,935;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;36.43;Reator;1;Com Bolsa Membrana;80,2;18;34;0,01;3,5;0,85656;0,013;0,423;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;NULL;98,2;15;31,1;0,03;2,5;0,8828;0,133;3,555;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;NULL;Óleo Naftênico;22.85;Reator;1;NULL;99,9;19;41,8;0,01;NULL;0,87529;0,022;0,55;Válvula de Drenagem Inferior Tanque
+WEG Equipamentos Elétricos;242;21,6;Derivação Trifásico;NULL;Óleo Mineral Naftênico;9.42;Reator;1;Com Bolsa Membrana;83;12;38,5;NULL;1;0,87418;0,009;0,733;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;30;Derivação Trifásico;NULL;Óleo Mineral Naftênico;43.75;Reator;1;Com Bolsa Membrana;76;23;32,1;NULL;3;0,87882;0,073;2,521;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;90,5;15;31,3;0,02;2;0,86947;0,238;1,2;Válvula de Drenagem Inferior Tanque
+WEG;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.06;Reator;1;Com Bolsa Membrana;62,2;14;37,1;NULL;1,5;0,88556;0,008;0,406;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;25.28;Reator;1;Com Bolsa Membrana;94,5;14;35,6;NULL;1,5;0,8713;0,015;0,657;Válvula de Drenagem Inferior Tanque
+BBC - BROWN BOVERI;145;33,33;Derivação Monofásico;NULL;Óleo Mineral Naftênico;21.44;Reator;1;NULL;94,1;11;31,1;NULL;2,5;0,88211;0,114;4,996;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;33,21;Derivação Trifásico;NULL;Óleo Mineral Naftênico;20.44;Reator;1;Com Bolsa Membrana;97;11;32;NULL;2,5;0,88712;0,072;2,122;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.11;Reator;1;Com Bolsa Membrana;67;12;32;NULL;1;0,86636;0,025;0,822;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;95,1;10;34,1;NULL;2;0,85808;0,0123;0,2701;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;86,8;10;30;NULL;1,5;0,86634;0,0315;1,0011;Válvula de Drenagem Inferior Tanque
+ASEA;500;45,3;Derivação Monofásico;NULL;Óleo Mineral Naftênico;34.09;Reator;1;Com Bolsa Membrana;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL;NULL
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.85;Reator;1;Com Bolsa Membrana;96,2;17;30,1;NULL;3,5;0,86583;0,087;2,944;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;72,6;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;NULL;95,5;14;39;NULL;1;0,87565;0,006;0,2834;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;33,21;Derivação Trifásico;NULL;Óleo Mineral Naftênico;10.88;Reator;1;NULL;52,1;17;37;0;1;0,87153;0,078;1,218;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;30;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.28;Reator;1;Selado a N2;90,6;11;31,9;0,02;0,5;0,86587;0,027;1,027;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;42.11;Reator;1;Com Bolsa Membrana;75,3;19;28,3;NULL;3,5;0,88348;0,0728;2,9783;Válvula de Drenagem Inferior Tanque
+Transformadores União Siemens;500;33,5;Derivação Monofásico;NULL;Óleo Mineral Naftênico;38.37;Reator;1;NULL;100,2;6;36,7;NULL;1,5;0,87765;0,022;0,9809;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;16.85;Reator;1;Com Bolsa Membrana;98,8;14;34;NULL;1;0,8754;0,0138;0,2743;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;91,9;10;24,4;NULL;2;0,86668;0,3956;9,0395;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;138;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;20.85;Reator;1;NULL;95,9;8;38,6;NULL;0;0,88701;0,003;0,399;Válvula de Drenagem Inferior Tanque
+WEG;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.06;Reator;1;Com Bolsa Membrana;90,5;10;39,1;0;1,5;0,88324;0,067;2,036;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;98,2;7;33,4;NULL;2;0,8666;0,0217;0,7312;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;88,9;10;34,3;0,02;2;0,86948;0,024;1,079;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.71;Reator;1;NULL;98,6;15;33,7;0,03;3;0,88175;0,041;1,808;Válvula de Drenagem Inferior Tanque
+WEG;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;19.28;Reator;1;Com Bolsa Membrana;88;14;38,3;0;1;0,87605;0,01;0,584;Válvula de Drenagem Inferior Tanque
+ALSTOM;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;20.44;Reator;1;Com Bolsa Membrana;93;16;31,7;0,03;2,5;0,88634;0,119;3,397;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.43;Reator;1;Com Bolsa Membrana;90;13;35,2;NULL;1;0,87569;0,0118;0,388;Válvula de Drenagem Inferior Tanque
+ALSTHON;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;23.55;Reator;1;NULL;85,3;17;38,6;0;1;0,88015;0,028;2,864;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;145;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;20.11;Reator;1;Com Bolsa Membrana;80;17;40,1;0;1;0,8756;0,038;1,396;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;17.77;Reator;1;Com Bolsa Membrana;100,1;10;38,5;NULL;1;0,88129;0,0086;0,4368;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.12;Reator;1;NULL;100,2;10;31,5;NULL;3;0,88146;0,0449;1,1566;Válvula de Drenagem Inferior Tanque
+Transformadores União LTDA;145;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;100,2;11;29,9;0,02;2;0,87083;0,046;2,13;Válvula de Drenagem Inferior Tanque
+ITEL;145;30;Derivação Trifásico;NULL;Óleo Mineral Naftênico;38.74;Reator;1;Com Bolsa Membrana;97,5;15;32,2;NULL;2,5;0,88158;0,025;1,912;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;61,8;14;33;NULL;1;0,86616;0,0099;0,3097;Válvula de Drenagem Inferior Tanque
+ASEA;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;40.08;Reator;1;NULL;93,7;12;25,8;NULL;3;0,87703;0,115;4,702;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;96,7;25;25,1;NULL;4,5;0,88353;0,3021;7,6763;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;77,3;11;34,6;NULL;0,5;0,86648;0,0188;0,3235;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;15;20;Derivação Monofásico;NULL;Óleo Mineral Naftênico;16.21;Reator;1;Com Bolsa Membrana;97,4;12;33,9;NULL;2,5;0,88122;0,0299;0,8645;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;25.44;Reator;1;Com Bolsa Membrana;83,1;16;35,1;NULL;1,5;0,86545;0,01;0,451;Válvula de Drenagem Inferior Tanque
+ASEA Elétrica LTDA;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;43.71;Reator;1;NULL;94,2;16;34,8;0,03;2,5;0,88304;0,033;1,345;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;72,5;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;99,9;16;33,3;NULL;1,5;0,86514;0,138;3,344;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;96,5;18;23,2;NULL;3;0,86771;0,107;3,779;Válvula de Drenagem Inferior Tanque
+Transformadores União Siemens;500;33,5;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;NULL;98,9;7;39,6;NULL;1;0,87749;0,0428;0,8308;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;91;16;39;0;1;0,87694;0,017;0,781;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;97,1;15;31,5;0,02;5;0,85292;0,05;1,242;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;25,8;25;Derivação Trifásico;NULL;Óleo Mineral Naftênico;22.32;Reator;1;Com Bolsa Membrana;94,1;11;34,9;0,01;1;0,86544;0,011;0,408;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;17.44;Reator;1;Com Bolsa Membrana;100,1;9;40,2;0;1;0,87836;0,006;0,265;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;230;30;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.44;Reator;1;Selado a N2;79,1;25;31,8;NULL;2;0,87731;0,023;1,299;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;37.70;Reator;1;NULL;98,7;9;35,3;0,01;1,5;0,88062;0,01;0,519;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;20;Derivação Trifásico;NULL;Óleo Mineral Naftênico;7.92;Reator;1;Com Bolsa Membrana;93,9;13;30,7;NULL;1,5;0,87711;0,0209;0,9344;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.10;Reator;1;Selado a N2;100,1;12;30,7;NULL;5;0,85354;0,0339;0,7957;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;97,6;12;27,1;NULL;5,5;0,85277;0,0459;1,2472;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;145;33,21;Derivação Trifásico;NULL;Óleo Vegetal;11.85;Reator;1;Com Bolsa Membrana;100;12;37,8;NULL;1,5;0,87143;0,0302;0,4614;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.11;Reator;1;Com Bolsa Membrana;93,1;11;34,6;NULL;2;0,88671;0,018;0,711;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.88;Reator;1;Com Bolsa Membrana;98,1;10;36,2;NULL;0,5;0,87647;0,002;0,304;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;89,9;17;33,5;0,04;2,5;0,88238;0,063;3,42;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;72,7;18;28,3;NULL;2,5;0,88338;0,043;1,298;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;Selado a N2;92,3;14;31,2;NULL;2,5;0,88575;0,1066;3,4973;Válvula de Drenagem Inferior Tanque
+ITEL;242;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;36.86;Reator;1;Com Bolsa Membrana;96,3;18;37,2;0,01;2,5;0,88202;0,043;1,897;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;12.94;Reator;1;Com Bolsa Membrana;91;11;38,1;0;1;0,88492;0,006;0,348;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;72,5;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;100;17;32,2;NULL;1,5;0,86484;0,037;1,819;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;15.02;Reator;1;Com Bolsa Membrana;98,2;38;23,7;0,14;1;0,91447;2,795;38,669;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.36;Reator;1;Com Bolsa Membrana;87,6;10;39,6;NULL;0,5;0,87554;0,006;0,2897;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;75,7;16;33,4;NULL;2,5;0,88065;0,027;1,427;Válvula de Drenagem Inferior Tanque
+ASEA;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;NULL;99,4;13;30,4;0,03;2,5;0,88354;0,028;1,17;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;7.94;Reator;1;Com Bolsa Membrana;88,3;15;33,8;0,01;1,5;0,87753;0,015;0,762;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;20;Derivação Trifásico;NULL;Óleo Mineral Naftênico;7.48;Reator;1;Com Bolsa Membrana;72,8;12;37,7;NULL;0,5;0,8761;0,017;0,748;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;92,2;13;33,9;NULL;0,5;0,87281;0,0367;1,045;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;Com Bolsa Membrana;79,7;12;37;NULL;1;0,87866;0,0112;0,3863;Válvula de Drenagem Inferior Tanque
+WEG;230;33,2;Derivação Trifásico;NULL;Óleo Mineral Naftênico;23.44;Reator;1;NULL;70;12;37,5;NULL;1,5;0,87607;0,011;0,501;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;138;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;20.85;Reator;1;NULL;94,9;15;40,2;NULL;0;0,88537;0,0122;0,2772;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;150;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;90,5;19;37,3;0;2;0,88196;0,03;1,408;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;230;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;7.94;Reator;1;Com Bolsa Membrana;73,1;14;32,4;NULL;1,5;0,87725;0,0366;1,4452;Válvula de Drenagem Inferior Tanque
+TOSHIBA DO BRASIL S.A;145;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;20.11;Reator;1;Com Bolsa Membrana;94,6;17;32;0,01;1,5;0,87537;0,038;2,015;Válvula de Drenagem Inferior Tanque
+ASEA;500;45,3;Derivação Monofásico;NULL;Óleo Mineral Naftênico;34.09;Reator;1;Com Bolsa Membrana;100,2;11;33,8;NULL;2;0,88616;0,0159;1,2724;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;16.80;Reator;1;Com Bolsa Membrana;100,3;8;34,1;NULL;2;0,8754;0,008;0,2115;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;317,54;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;66,8;9;33,9;NULL;0,5;0,86672;0,0361;0,5142;Válvula de Drenagem Inferior Tanque
+SIEMENS;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;14.77;Reator;1;NULL;98,6;6;43,4;0;0,5;0,87482;0,003;0,4;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;98,8;12;36,1;NULL;2,5;0,86499;0,01;0,447;Válvula de Drenagem Inferior Tanque
+ASEA;500;45,3;Derivação Monofásico;NULL;Óleo Mineral Naftênico;34.09;Reator;1;Com Bolsa Membrana;99,3;12;32,1;NULL;2,5;0,87693;0,0429;1,4451;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.11;Reator;1;Com Bolsa Membrana;97,5;19;33,2;0,02;2;0,87351;0,06;1,101;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;145;2214;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.53;Reator;1;Com Bolsa Membrana;87,2;10;42;0;1;0,88008;0,005;0,426;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;96,7;16;24,8;NULL;3;0,86763;0,071;2,421;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;12.94;Reator;1;Com Bolsa Membrana;90,9;12;38;0;0,5;0,88541;0,006;0,465;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;72,5;NULL;Monofásico de Aterramento de Neutro;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;91,7;11;31,5;NULL;1,5;0,86505;0,034;1,4862;Válvula de Drenagem Inferior Tanque
+ALSTHOM SAVOISIENNE;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;35.95;Reator;1;NULL;100,1;16;28,4;NULL;2,5;0,88326;0,025;1,035;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;97,7;10;35,8;NULL;1,5;0,86598;0,028;0,596;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;15.36;Reator;1;Com Bolsa Membrana;86,8;11;39,1;NULL;1;0,8756;0,0079;0,4116;Válvula de Drenagem Inferior Tanque
+NULL;230;NULL;NULL;NULL;Óleo Naftênico;23.86;Reator;1;NULL;86,4;10;33,4;NULL;1;0,87932;0,01;1,213;Válvula de Drenagem Inferior Tanque
+ASEA;500;45,3;Derivação Monofásico;NULL;Óleo Mineral Naftênico;34.09;Reator;1;Com Bolsa Membrana;98,7;14;30;NULL;2,5;0,87398;0,0343;1,2483;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;24.76;Reator;1;Com Bolsa Membrana;91,8;8;33,1;NULL;2;0,86597;0,023;0,6553;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;12.94;Reator;1;Com Bolsa Membrana;89,6;11;36,7;0,01;1;0,88614;0,004;0,208;Válvula de Drenagem Inferior Tanque
+AREVA;230;22,14;Derivação Trifásico;NULL;Óleo Vegetal;15.02;Reator;1;Com Bolsa Membrana;87,3;9;33,6;NULL;0,5;0,8756;0,009;0,673;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;165;Derivação Trifásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;100,2;8;38,8;NULL;2;0,85579;0,007;0,1948;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Com Bolsa Membrana;100,1;14;31,8;NULL;3;0,88373;0,0303;1,1401;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.43;Reator;1;Com Bolsa Membrana;100,1;8;38,6;NULL;1;0,87568;0,0074;0,3637;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.50;Reator;1;Com Bolsa Membrana;99;13;27,5;0,02;4,5;0,85988;0,052;1,56;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;72,6;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;NULL;94;16;39,9;NULL;1;0,87548;0,0061;0,287;Válvula de Drenagem Inferior Tanque
+ANSALDO COEMSA S. A;500;55;Derivação Monofásico;NULL;Óleo Mineral Naftênico;24.70;Reator;1;Com Bolsa Membrana;87,7;10;29,1;NULL;1;0,86569;0,0368;1,242;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;29.28;Reator;1;Com Bolsa Membrana;75,8;16;28,8;NULL;1,5;0,84935;0,015;0,792;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;25.11;Reator;1;Com Bolsa Membrana;68,1;26;25,5;NULL;4;0,87381;0,418;10,107;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;550;72,6;Derivação Monofásico;NULL;Óleo Mineral Naftênico;23.86;Reator;1;NULL;28,9;38;38,6;NULL;0,5;0,87521;0,0073;0,1652;Válvula de Drenagem Inferior Tanque
+ABB - Asea Brown Boveri;24;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;21.50;Reator;1;Com Bolsa Membrana;90,9;10;37,1;NULL;1;0,88146;0,0072;0,6988;Válvula de Drenagem Inferior Tanque
+Transformadores União Siemens;242;NULL;Derivação Trifásico;NULL;Óleo Mineral Naftênico;42.07;Reator;1;Com Bolsa Membrana;99,5;14;35;0,02;2;0,87822;0,04;1,662;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;NULL;Óleo Naftênico;6.35;Reator;1;NULL;96,1;11;37,4;NULL;1;0,87667;0,0053;0,269;Válvula de Drenagem Inferior Tanque
+JEUMONT SCHNEIDER;500;50;Derivação Monofásico;NULL;Óleo Mineral Naftênico;42.12;Reator;1;Selado a N2;93;17;27,8;NULL;3,5;0,88459;0,0872;2,9809;Válvula de Drenagem Inferior Tanque
+AREVA;500;65,85;Derivação Monofásico;NULL;Óleo Mineral Naftênico;13.43;Reator;1;Com Bolsa Membrana;91;13;34,2;NULL;1;0,87563;0,0086;0,5749;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;NULL;Óleo Naftênico;3.84;Reator;1;NULL;92,6;12;32,1;NULL;2;0,87883;0,0296;1,2122;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;NULL;Óleo Naftênico;4.32;Reator;1;NULL;92,6;14;39,6;NULL;1;0,88188;0,0089;0,4866;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;NULL;Óleo Naftênico;4.32;Reator;1;NULL;91,5;20;34,4;0,01;2;0,87934;0,031;1,16;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;NULL;Óleo Naftênico;4.32;Reator;1;NULL;95,9;22;30,8;NULL;2;0,88206;0,045;1,97;Válvula de Drenagem Inferior Tanque
+NULL;69;NULL;NULL;NULL;Óleo Naftênico;20.06;Reator;1;NULL;19,7;64;37,9;NULL;0,5;0,88753;0,3737;4,3992;Válvula de Drenagem Inferior Tanque
+NULL;NULL;NULL;NULL;NULL;NULL;13.43;Reator;1;NULL;90,9;9;29,5;NULL;4,5;0,85449;0,0566;1,566;Válvula de Drenagem Inferior Tanque
+WEG;230;NULL;Derivação Trifásico;NULL;Óleo Naftênico;2.48;Reator;1;NULL;92,2;11;41,9;NULL;0;0,86855;0,012;0,837;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;NULL;Óleo Naftênico;2.24;Reator;1;NULL;99,9;7;41,3;NULL;0;0,86658;0,001;0,483;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;NULL;Óleo Naftênico;2.24;Reator;1;NULL;100;8;39,5;NULL;0;0,86639;0,001;0,291;Válvula de Drenagem Inferior Tanque
+NULL;500;NULL;NULL;NULL;Óleo Naftênico;2.24;Reator;1;NULL;100,2;5;37,3;NULL;0;0,8677;0,002;0,361;Válvula de Drenagem Inferior Tanque
+SACE;230;NULL;Derivação Monofásico;NULL;Óleo Mineral Naftênico;21.50;Reator;1;NULL;97,9;7;42,7;NULL;0;0,87473;0,0093;0,2001;Válvula de Drenagem Inferior Tanque
